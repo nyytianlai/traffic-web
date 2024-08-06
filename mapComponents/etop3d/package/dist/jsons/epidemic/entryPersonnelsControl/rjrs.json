@@ -1,0 +1,60 @@
+{
+  "rjDate" : "2021-10-28",
+  "dayTotal": 3500,
+  "daypieList": [
+    {"color": "#FFF900", "name": "香港入境", "value": 1000, "bfb": "25%"},
+    {"color": "#04EBD2", "name": "航班入境", "value": 1500, "bfb": "50%"},
+    {"color": "#CE8C3A", "name": "跨境司机", "value": 1000, "bfb": "25%"}
+  ],
+  "daygqList": [
+    {"xh":1,"name": "南山区", "value": 400},
+    {"xh":2,"name": "罗湖区", "value": 350},
+    {"xh":3,"name": "宝安区", "value": 300},
+    {"xh":4,"name": "龙华区", "value": 300},
+    {"xh":5,"name": "龙岗区", "value": 300},
+    {"xh":6,"name": "福田区", "value": 300},
+    {"xh":7,"name": "光明区", "value": 300},
+    {"xh":8,"name": "盐田区", "value": 300},
+    {"xh":9,"name": "宝安区", "value": 300},
+    {"xh":10,"name": "大鹏新区", "value": 300},
+    {"xh":11,"name": "深汕合作区", "value": 300}
+  ],
+  "weekTotal": 5000,
+  "weekpieList": [
+    {"color": "#FFF900", "name": "香港入境", "value": 1500, "bfb": "25%"},
+    {"color": "#04EBD2", "name": "航班入境", "value": 2000, "bfb": "50%"},
+    {"color": "#CE8C3A", "name": "跨境司机", "value": 1500, "bfb": "25%"}
+  ],
+  "weekgqList": [
+    {"xh":1,"name": "南山区", "value": 420},
+    {"xh":2,"name": "罗湖区", "value": 300},
+    {"xh":3,"name": "宝安区", "value": 310},
+    {"xh":4,"name": "龙华区", "value": 400},
+    {"xh":5,"name": "龙岗区", "value": 200},
+    {"xh":6,"name": "福田区", "value": 100},
+    {"xh":7,"name": "光明区", "value": 150},
+    {"xh":8,"name": "盐田区", "value": 400},
+    {"xh":9,"name": "宝安区", "value": 280},
+    {"xh":10,"name": "大鹏新区", "value": 150},
+    {"xh":11,"name": "深汕合作区", "value": 100}
+  ],
+  "monTotal": 8700,
+  "monpieList": [
+    {"color": "#FFF900", "name": "香港入境", "value": 2500, "bfb": "25%"},
+    {"color": "#04EBD2", "name": "航班入境", "value": 2500, "bfb": "25%"},
+    {"color": "#CE8C3A", "name": "跨境司机", "value": 2700, "bfb": "50%"}
+  ],
+  "mongqList": [
+    {"xh":1,"name": "南山区", "value": 1420},
+    {"xh":2,"name": "罗湖区", "value": 1300},
+    {"xh":3,"name": "宝安区", "value": 1310},
+    {"xh":4,"name": "龙华区", "value": 1400},
+    {"xh":5,"name": "龙岗区", "value": 1200},
+    {"xh":6,"name": "福田区", "value": 1100},
+    {"xh":7,"name": "光明区", "value": 1150},
+    {"xh":8,"name": "盐田区", "value": 1400},
+    {"xh":9,"name": "宝安区", "value": 1280},
+    {"xh":10,"name": "大鹏新区", "value": 1150},
+    {"xh":11,"name": "深汕合作区", "value": 1100}
+  ]
+}

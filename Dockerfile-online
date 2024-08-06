@@ -1,0 +1,9 @@
+FROM 10.126.0.3:5000/devops/centos7-nginx:1.0
+MAINTAINER gaotuo<gaotuo@sutpc.com>
+
+RUN mkdir /var/log/nginx
+COPY ./dist/ /data/front/ProjectName/
+COPY nginx.conf /usr/local/nginx/conf/nginx.conf
+
+ENTRYPOINT ["nginx","-g", "daemon off;"]
+EXPOSE 80

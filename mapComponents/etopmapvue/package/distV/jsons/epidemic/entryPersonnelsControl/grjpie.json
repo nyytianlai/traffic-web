@@ -1,0 +1,15 @@
+{
+  "daypieList": [
+    {"color": "#FFF900", "name": "福田区", "value": 100 },
+    {"color": "#04EBD2", "name": "罗湖区", "value": 260 },
+    {"color": "#CE8C3A", "name": "盐田区", "value": 80 },
+    {"color": "#CE8C3A", "name": "南山区", "value": 60 },
+    {"color": "#CE8C3A", "name": "宝安区", "value": 50 },
+    {"color": "#CE8C3A", "name": "龙岗区", "value": 70 },
+    {"color": "#CE8C3A", "name": "龙华区", "value": 80 },
+    {"color": "#CE8C3A", "name": "坪山区", "value": 100 },
+    {"color": "#CE8C3A", "name": "光明区", "value":50 },
+    {"color": "#CE8C3A", "name": "大鹏新区", "value": 40 },
+    {"color": "#CE8C3A", "name": "深汕合作区", "value": 80 }
+  ]
+}

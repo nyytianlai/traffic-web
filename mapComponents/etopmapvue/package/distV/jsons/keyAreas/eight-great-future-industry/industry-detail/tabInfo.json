@@ -1,0 +1,963 @@
+{
+  "retCode": 0,
+  "results": [
+    {
+      "industry": "合成生物",
+      "descInfo": {
+        "name": "合成生物",
+        "desc": "研究合成生物底层技术和定量合成生物技术，开展生物创制",
+        "place": "光明科学城、东部滨海国际生物谷和深圳国家高新区南山园区。",
+        "isLong": false,
+        "num": 5,
+        "detail": [
+          {
+            "title": "合成生物底层技术",
+            "desc": "研发可控基因编辑技术、大片段DNA合成与组装技术、DNA信息存储技术、AI辅助的分子设计与进化技术、核酸等无细胞合成药物技术、医药工业酶库技术、合成生物自动化设备与软件等。"
+          },
+          {
+            "title": "定量合成生物技术",
+            "desc": "开展正交性、可预测的关键生物元件，复杂基因线路的设计与构建技术，全细胞模型模拟技术，活体细胞定量分析检测技术，递送、示踪与精准调控技术，单细胞基因组分析定量技术，生命系统中的数据挖掘技术等研究。"
+          },
+          {
+            "title": "生物创制",
+            "desc": "开展人工细菌、人工病毒/噬菌体、人工细胞等人工合成产品，人工晶状体等制备与工艺技术，人造新产品的研发。开展工业酶创制与应用、制造工业菌种构建、生物制造原料应用等研发。"
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-investment.png",
+          "name": "2021 项目投资额",
+          "num": "3,000",
+          "id":0,
+          "unit": "亿元",
+          "rate": "20%",
+          "dialoogTitle": "项目投资额分析",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "1,578.12",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "1,613.39",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": [
+            {
+              "id": 0,
+              "name": "按行政区排行",
+              "value": 1
+            },
+            {
+              "id": 1,
+              "name": "按核心承载区排行",
+              "value": 2
+            },
+            {
+              "id": 2,
+              "name": "企业TOP10",
+              "value": 3
+            },
+            {
+              "id": 3,
+              "name": "项目TOP10",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-patents.png",
+          "name": "2020 专利数量",
+          "num": "33",
+          "unit": "个",
+          "id":1,
+          "rate": "0.1%",
+          "dialoogTitle": "专利分析",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2020 专利总额",
+              "num": "33",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2020 年国内发明专利授权量",
+              "num": "28",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2020 PCT 国际专利申请量",
+              "num": "5",
+              "unit": "个"
+            }
+          ],
+          "dialogRadio": [
+            {
+              "id": 0,
+              "name": "按行政区排行",
+              "value": 1
+            },
+            {
+              "id": 1,
+              "name": "按核心承载区排行",
+              "value": 2
+            },
+          
+            {
+              "id": 2,
+              "name": "企业TOP10",
+              "value": 3
+            },
+            {
+              "id": 3,
+              "name": "科研机构TOP10",
+              "value": 4
+            }
+          ]
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-technology.png",
+          "name": "科技创新体系分析",
+          "num": "26",
+          "unit": "个",
+          "id":2,
+          "rate": "15%",
+          "dialoogTitle": "科技创新体系分析",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-enterprises.png",
+          "name": "重点企业",
+          "num": "19",
+          "id":3,
+          "unit": "个",
+          "rate": "14%",
+          "dialoogTitle": "重点企业分析",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "重点企业",
+              "num": "19",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "龙头企业",
+              "num": "4",
+              "unit": "个",
+              "rate": "7%"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "上市企业",
+              "num": "2",
+              "unit": "个",
+              "rate": "10%"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“专精特新”企业",
+              "num": "1",
+              "unit": "个",
+              "rate": "11%"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "国高企业",
+              "num": "12",
+              "unit": "个",
+              "rate": "14%"
+            }
+          ],
+          "dialogRadio": [
+            {
+              "id": 0,
+              "name": "按行政区排行",
+              "value": 1
+            },
+            {
+              "id": 1,
+              "name": "按核心承载区排行",
+              "value": 2
+            }
+          ]
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-pro.png",
+          "name": "重点项目",
+          "num": "16",
+          "id":4,
+          "unit": "个",
+          "rate": "12%",
+          "dialoogTitle": "重点项目分析",
+          
+          "dialogRadio": [
+          
+                { "id": 0, "name": "按行政区排行", "value": 1 },
+                { "id": 1, "name": "按核心承载区排行", "value": 2 }
+          ]
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-resources.png",
+          "name": "境内外创新资源",
+          "num": "111",
+          "id":5,
+          "unit": "个",
+          "rate": "12%",
+          "dialoogTitle": "境内外创新资源",
+          "dialogInfo": [],
+          "dialogRadio": []
+        }
+      ]
+    },
+    {
+      "industry": "区块链",
+      "descInfo": {
+        "name": "区块链",
+        "desc": "研究底层平台技术、区块链+金融、区块链+智能制造和区块链+供应链",
+        "place": "光明科学城、河套深港科技创新合作区深港科技创新合作区、前海深港现代服务业合作区深港现代服务业合作区、红岭新兴金融产业带和深圳国家高新区龙华园区。",
+        "isLong": true,
+        "num": 4,
+        "detail": [
+          {
+            "title": "底层平台技术",
+            "desc": "研发自主可控、互联互通的区块链开源平台，加强共识机制、智能合约、加密算法、分布式存储、跨链及分片等关键核心技术攻关，探索区块链与新一代信息技术融合应用。"
+          },
+          {
+            "title": "区块链+金融",
+            "desc": "面向跨境贸易、信贷、资产管理等领域应用，构建可信的数据资源存储、管理和服务体系，打造金融区块链服务平台；"
+          },
+          {
+            "title": "区块链+智能制造",
+            "desc": "建设面向智能制造领域的区块链应用服务平台，保障平台数据归属确权、可靠交易和传输安全；"
+          },
+          {
+            "title": "区块链+供应链",
+            "desc": "建设面向物流供应链的区块链应用支撑服务网络，提升物流供应链端到端的数据透明度和数据追溯应用能力，促进生产、贮藏、运输、销售等一体化协作。"
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-investment.png",
+          "name": "2021 项目投资额",
+          "num": "***",
+          "unit": "",
+          "rate": "*",
+          "dialoogTitle": "",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "155.3825",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-patents.png",
+          "name": "2020 专利数量",
+          "num": "2229",
+          "unit": "个",
+          "rate": "6.68%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-technology.png",
+          "name": "科技创新体系",
+          "num": "19",
+          "unit": "个",
+          "rate": "10.92%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-enterprises.png",
+          "name": "重点企业",
+          "num": "22",
+          "unit": "个",
+          "rate": "17.32%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-pro.png",
+          "name": "重点项目",
+          "num": "21",
+          "unit": "个",
+          "rate": "16.15%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-resources.png",
+          "name": "境内外创新资源",
+          "num": "65",
+          "unit": "个",
+          "rate": "14.38%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        }
+      ]
+    },
+    {
+      "industry": "细胞和基因",
+      "descInfo": {
+        "name": "细胞和基因",
+        "desc": "研究细胞技术、基因技术、细胞与基因治疗技术和生物育种技术",
+        "place": "前海深港现代服务业合作区、西丽湖国际科教城、东部滨海国际生物谷、深圳国家高新区坪山园区、深圳国家高新区龙岗园区和深圳国家高新区龙华园区。",
+        "isLong": true,
+        "num": 4,
+        "detail": [
+          {
+            "title": "细胞技术",
+            "desc": "研发血液细胞分离、纯化技术及高端装备，研制细胞培养基、细胞定向性诱导分化的试剂盒、细胞表型和功能高通量检测技术及配套试剂，开展细胞/组织样本原位成像技术，单细胞质谱流式技术，细胞自动化制备技术，细胞培养、分离富集、分装的一体化设备及一次性使用耗材，细胞新产品等研究。"
+          },
+          {
+            "title": "基因技术",
+            "desc": "研发新一代基因测序技术，单分子检测技术，基因和蛋白质精准测量技术，新型质谱和微流控芯片；研发新型基因操作技术，真核生物细胞的基因（组）编辑技术，新型微生物基因重组技术，多种基因（组）编辑手段的融合技术；研发基因多态性检测技术及其诊断试剂盒，药物基因组学靶标及其临床应用技术。"
+          },
+          {
+            "title": "细胞与基因治疗技术",
+            "desc": "开展免疫细胞治疗、干细胞治疗、CAR-T免疫细胞治疗，研发基因治疗技术，液体活检技术，细胞与基因治疗元件、载体和结构的核心工艺，细胞与基因治疗创新药，建立新型个体化生物治疗技术标准体系。"
+          },
+          {
+            "title": "生物育种技术",
+            "desc": "研究遗传细胞和遗传育种，全基因组选择育种技术，动植物育种芯片技术，杂交水稻实用安全高效机械化制种技术，隐性核不育系规模化繁殖技术，非转基因抗除草剂的作物种质资源创制技术，抗除草剂作物新品种培育及配套生产管理技术等。"
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-investment.png",
+          "name": "2021 项目投资额",
+          "num": "***",
+          "unit": "",
+          "rate": "*",
+          "dialoogTitle": "项目投资额分析",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "307.8",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-patents.png",
+          "name": "2020 专利数量",
+          "num": "214",
+          "unit": "个",
+          "rate": "0.64%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-technology.png",
+          "name": "科技创新体系",
+          "num": "44",
+          "unit": "个",
+          "rate": "25.29%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-enterprises.png",
+          "name": "重点企业",
+          "num": "28",
+          "unit": "个",
+          "rate": "22.05%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-pro.png",
+          "name": "重点项目",
+          "num": "27",
+          "unit": "个",
+          "rate": "20.77%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-resources.png",
+          "name": "境内外创新资源",
+          "num": "49",
+          "unit": "个",
+          "rate": "10.84%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        }
+      ]
+    },
+    {
+      "industry": "空天技术",
+      "descInfo": {
+        "name": "空天技术",
+        "desc": "研究空天信息技术、先进遥感技术、导航定位技术和空天装备制造",
+        "place": "前海深港现代服务业合作区 深港现代服务业合作区、深圳国家高新区南山园区、深圳国家高新区宝安园区和深圳国家高新区龙华园区。",
+        "isLong": true,
+        "num": 4,
+        "detail": [
+          {
+            "title": "空天信息技术",
+            "desc": "研究空天极端环境下的先进编译码技术、空天大数据智能处理与空间认知技术、智能遥感卫星系统技术、空天广域覆盖下的多维多尺度遥感技术、遥感卫星智能在轨处理技术等，开展空间天气服务平台建设与使用、空天信息技术在海洋领域的综合应用研究、卫星物联网总体技术研究等，开展北斗卫星导航、遥导通一体化等应用，积极推动空天科技与人工智能、大数据、物联网、机器人等领域的融通创新与综合应用。"
+          },
+          {
+            "title": "先进遥感技术",
+            "desc": "开展航测遥感装备与技术、卫星遥感应急监测预警技术、全空间遥感技术、神经形态稀疏化遥感成像技术、无人机遥感技术、卫星遥感大数据融合处理技术、卫星遥感国土资源监测技术、卫星遥感地质矿产调查技术、遥感卫星群软件定义“云”观测技术、智能遥感卫星系统技术、多维多尺度遥感技术、遥感卫星智能在轨处理技术等研究，构建卫星遥感城市公共服务体系。"
+          },
+          {
+            "title": "导航定位技术",
+            "desc": "研制水上水下一体化导航定位和室内外无缝导航定位装备，研究电磁干扰环境、城市峡谷环境、高架环境下的北斗定位关键技术，导航卫星（GNSS）观测网云计算技术，电离层扰动对信号传播的影响，时空信息系统技术等，构建海洋时空基准网。"
+          },
+          {
+            "title": "空天装备制造",
+            "desc": "研发微小卫星先进平台与系统集成技术，微小卫星在轨智能目标识别技术，国产星载高可靠SOC设计技术，微小卫星智能总装、测试及试验技术，大卫星平台及微小卫星平台电源系统技术，面向空间操控的航天器系统设计等。"
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-investment.png",
+          "name": "2021 项目投资额",
+          "num": "***",
+          "unit": "",
+          "rate": "*",
+          "dialoogTitle": "项目投资额分析",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "107.01",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-patents.png",
+          "name": "2020 专利数量",
+          "num": "5871",
+          "unit": "个",
+          "rate": "17.61%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-technology.png",
+          "name": "科技创新体系",
+          "num": "12",
+          "unit": "个",
+          "rate": "6.90%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-enterprises.png",
+          "name": "重点企业",
+          "num": "8",
+          "unit": "个",
+          "rate": "6.30%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-pro.png",
+          "name": "重点项目",
+          "num": "15",
+          "unit": "个",
+          "rate": "11.54%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-resources.png",
+          "name": "境内外创新资源",
+          "num": "70",
+          "unit": "个",
+          "rate": "15.49%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        }
+      ]
+    },
+    {
+      "industry": "脑科学与类脑智能",
+      "descInfo": {
+        "name": "脑科学与类脑智能",
+        "desc": "研究脑图谱技术、脑诊治技术和类脑智能",
+        "place": "光明科学城、河套深港科技创新合作区深港科技创新合作区、西丽湖国际科教城和深圳国家高新区坪山园区。",
+        "isLong": true,
+        "num": 3,
+        "detail": [
+          {
+            "title": "脑图谱技术",
+            "desc": "开展脑功能神经环路构筑和运行原理解析，绘制大脑神经网络结构和功能图谱，精准解析大脑多尺度结构功能，研究以生物相分离为核心的神经元发育、分化及实现功能新机制，开展介观水平调控骨骼、代谢、内分泌等功能的中枢神经联接结构研究。"
+          },
+          {
+            "title": "脑诊治技术",
+            "desc": "开发高度模拟人类脑疾病的基因编辑模型和表型分析方法，开展自闭症、情绪障碍、阿尔茨海默症等疾病的致病因素鉴定和机制解析，研发脑疾病早期诊断和基于脑认知的数字诊疗技术等。"
+          },
+          {
+            "title": "类脑智能",
+            "desc": "开展类脑计算理论，类脑智能系统，适用于大规模（>千万级神经元）脉冲网络且具备生物合理性的高性能学习算法，大数据场景下的类脑推理、预测、决策，学习与记忆融合模型与算法，多种跨脑区协同的认知任务，柔软电极、碳基MRI兼容柔软电极、多通道高密度电极，脑机接口技术和类脑芯片等研究。"
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-investment.png",
+          "name": "2021 项目投资额",
+          "num": "***",
+          "unit": "",
+          "rate": "*",
+          "dialoogTitle": "项目投资额分析",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "237.17",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-patents.png",
+          "name": "2020 专利数量",
+          "num": "10121",
+          "unit": "个",
+          "rate": "30.35%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-technology.png",
+          "name": "科技创新体系",
+          "num": "33",
+          "unit": "个",
+          "rate": "18.97%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-enterprises.png",
+          "name": "重点企业",
+          "num": "27",
+          "unit": "个",
+          "rate": "21.26%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-pro.png",
+          "name": "重点项目",
+          "num": "14",
+          "unit": "个",
+          "rate": "10.77%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-resources.png",
+          "name": "境内外创新资源",
+          "num": "35",
+          "unit": "个",
+          "rate": "7.74%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        }
+      ]
+    },
+    {
+      "industry": "深地深海",
+      "descInfo": {
+        "name": "深地深海",
+        "desc": "研究深地矿产和地热资源开发利用、城市地下空间开发利用、深海高端装备、深海智能感知和深海信息技术",
+        "place": "前海深港现代服务业合作区深港现代服务业合作区、东部滨海国际生物谷和深圳国家高新区宝安园区。",
+        "isLong": true,
+        "num": 3,
+        "detail": [
+          {
+            "title": "深地矿产和地热资源开发利用",
+            "desc": "开展地球内部成像、深地探测技术与装备、深部矿产资源评价与预测、深部地热能开发变革性原理与技术、热源构成定量分析与控热构造识别技术、深层地热资源探测技术与装备、深层地热资源评价与目标优选技术、深层高温地热资源安全高效成井技术、深部地热能开采技术与装备、深地能源资源勘探开采技术与装备、深地动力灾害防控技术与装备等研究。"
+          },
+          {
+            "title": "城市地下空间开发利用",
+            "desc": "研发城市地下空间探测技术、安全防控技术、城市战略储备能源系统、海洋城市战略物资勘探开发技术等。深海高端装备，研制深远海油气及海底矿产资源勘探装备，激光雷达海洋探测装备以及深海钻探船、重作业型水下机器人、深海水下机器人、载人深潜器、无人潜水器等水下探测装备，半潜运输船、起重铺管船等海上工程辅助及工程施工类装备，深海水下应急作业装备及系统，海底金属矿产勘探开采技术与装备，海底天然气水合物开采技术与装备等。"
+          },
+          {
+            "title": "深海高端装备",
+            "desc": "研制深远海油气及海底矿产资源勘探装备，激光雷达海洋探测装备以及深海钻探船、重作业型水下机器人、深海水下机器人、载人深潜器、无人潜水器等水下探测装备，半潜运输船、起重铺管船等海上工程辅助及工程施工类装备，深海水下应急作业装备及系统，海底金属矿产勘探开采技术与装备，海底天然气水合物开采技术与装备等。"
+          },
+          {
+            "title": "深海智能感知",
+            "desc": "研究深海矿产资源成矿富集规律、深海暗生命过程、深海生物物质相互作用机制,海洋观测网络及技术，深海探测通用技术，深海观测/探测传感器技术，深海系统模拟器与大数据技术等。"
+          },
+          {
+            "title": "深海信息技术",
+            "desc": "开展面向深海的声信号探测与采集技术、深海高速移动声通信技术、移动水声通信技术、抗干扰水声探测技术、水下导航定位系统研发制造应用、空天海一体化技术等研究。"
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-investment.png",
+          "name": "2021 项目投资额",
+          "num": "***",
+          "unit": "",
+          "rate": "*",
+          "dialoogTitle": "项目投资额分析",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "315.96",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-patents.png",
+          "name": "2020 专利数量",
+          "num": "22",
+          "unit": "个",
+          "rate": "0.07%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-technology.png",
+          "name": "科技创新体系",
+          "num": "14",
+          "unit": "个",
+          "rate": "8.05%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-enterprises.png",
+          "name": "重点企业",
+          "num": "6",
+          "unit": "个",
+          "rate": "4.72%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-pro.png",
+          "name": "重点项目",
+          "num": "13",
+          "unit": "个",
+          "rate": "10.00%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-resources.png",
+          "name": "境内外创新资源",
+          "num": "59",
+          "unit": "个",
+          "rate": "13.05%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        }
+      ]
+    },
+    {
+      "industry": "可见光通信与光计算",
+      "descInfo": {
+        "name": "可见光通信与光计算",
+        "desc": "研究可见光通信技术、光计算技术",
+        "place": "光明科学城、深圳国家高新区南山园区、深圳国家高新区龙岗园区和深圳国家高新区龙华园区。",
+        "isLong": false,
+        "num": 2,
+        "detail": [
+          {
+            "title": "可见光通信技术",
+            "desc": "研究高速可见光系统结构、信道建模、调制技术、均衡技术、编码技术、复用技术、新材料技术、微型化高速长距离传输技术、自动方向对准技术等，设计研发对等网络随机竞争多址方式、中心控制无竞争多址接入以及混合网络高端芯片，构建可见光通信标准化体系。"
+          },
+          {
+            "title": "光计算技术",
+            "desc": "开展光存储、光互联和光处理器等光计算关键技术，光电混合AI加速计算芯片、光学神经拟态计算系统、PB级超低功耗纳米光信息存储技术等光计算与存储技术，感存算一体光电融合芯片技术、高通量三维光场实时获取和感知技术、临场真实感近眼三维显示技术与装置等光显示与交互技术研究。"
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-investment.png",
+          "name": "2021 项目投资额",
+          "num": "***",
+          "unit": "",
+          "rate": "*",
+          "dialoogTitle": "项目投资额分析",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "217.95",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-patents.png",
+          "name": "2020 专利数量",
+          "num": "14837",
+          "unit": "个",
+          "rate": "44.49%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-technology.png",
+          "name": "科技创新体系",
+          "num": "19",
+          "unit": "个",
+          "rate": "10.92%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-enterprises.png",
+          "name": "重点企业",
+          "num": "16",
+          "unit": "个",
+          "rate": "12.60%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-pro.png",
+          "name": "重点项目",
+          "num": "12",
+          "unit": "个",
+          "rate": "9.23%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-resources.png",
+          "name": "境内外创新资源",
+          "num": "52",
+          "unit": "个",
+          "rate": "11.50%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        }
+      ]
+    },
+    {
+      "industry": "量子信息",
+      "descInfo": {
+        "name": "量子信息",
+        "desc": "研究量子计算、量子通信和量子测量",
+        "place": "光明科学城、河套深港科技创新合作区深港科技创新合作区。",
+        "isLong": false,
+        "num": 1,
+        "detail": [
+          {
+            "title": "量子计算",
+            "desc": "开展硅基量子计算模型、单向量子计算模型、拓扑量子计算模型、绝热量子计算模型、容错量子计算模型、硅基量子计算芯片、通用量子计算原型机、实用化量子模拟机等研究。量子通信，研发量子通信发射端技术、量子通信接收端技术、量子态制备技术、量子密钥管理技术、量子通信组网技术、量子存储和量子中继核心器件等。"
+          },
+          {
+            "title": "量子通信",
+            "desc": "研发量子通信发射端技术、量子通信接收端技术、量子态制备技术、量子密钥管理技术、量子通信组网技术、量子存储和量子中继核心器件等。"
+          },
+          {
+            "title": "量子测量",
+            "desc": "开展量子导航、量子灵敏探测和量子精密测量新理论，量子精密测量核心器件、关键传感器以及高端装备等研究，发展以量子计量基准和计量标准、量子测量芯片、新一代仪器仪表和生物测量等为核心的先进测量技术。"
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-investment.png",
+          "name": "2021 项目投资额",
+          "num": "***",
+          "unit": "",
+          "rate": "*",
+          "dialoogTitle": "项目投资额分析",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "161.97",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-patents.png",
+          "name": "2020 专利数量",
+          "num": "20",
+          "unit": "个",
+          "rate": "0.06%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-technology.png",
+          "name": "科技创新体系",
+          "num": "7",
+          "unit": "个",
+          "rate": "4.02%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-enterprises.png",
+          "name": "重点企业",
+          "num": "2",
+          "unit": "个",
+          "rate": "1.57%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-pro.png",
+          "name": "重点项目",
+          "num": "12",
+          "unit": "个",
+          "rate": "9.23%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        },
+        {
+          "imgSrc": "/icons/key-areas/industry/icon-resources.png",
+          "name": "境内外创新资源",
+          "num": "58",
+          "unit": "个",
+          "rate": "12.83%",
+          "dialoogTitle": "",
+          "dialogInfo": [],
+          "dialogRadio": []
+        }
+      ]
+    }
+  ]
+}

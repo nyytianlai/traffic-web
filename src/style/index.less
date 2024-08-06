@@ -1,0 +1,80 @@
+@import "./font-family.less";
+
+body {
+  padding: 0;
+  color: @text-color-secondary;
+  font-family: -apple-system, BlinkMacSystemFont, @font-family;
+  font-size: @font-size-base;
+  line-height: 1.5;
+
+  -webkit-font-smoothing: antialiased;
+}
+
+pre {
+  font-family: @font-family;
+}
+
+ul,
+dl,
+li,
+dd,
+dt {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+}
+
+figure,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.t-button-link {
+  margin-right: @spacer-3;
+  color: @brand-color;
+  text-decoration: none;
+  transition: color @anim-duration-base @anim-time-fn-easing;
+  cursor: pointer;
+
+  &:hover {
+    color: @brand-color-hover;
+  }
+
+  &:active {
+    color: @brand-color-active;
+  }
+
+  &--active {
+    color: @brand-color-active;
+  }
+
+  &:focus {
+    text-decoration: none;
+  }
+
+  &:last-child {
+    margin-right: 0;
+  }
+}
+
+.t-button + .t-button {
+  margin-left: @spacer;
+}
+
+.container-base-margin-top {
+  margin-top: 16px;
+}
+
+.card-date-picker-container {
+  width: 240px;
+}

@@ -1,0 +1,37 @@
+{
+  "total": 1200,
+  "drxz": 500,
+  "drjhld": 500,
+  "dryld": 200,
+  "totalRome": 1234,
+  "emptyRome": 500,
+  "glzstotal": 1700,
+  "pieList": [
+    {
+      "name": "境内总数",
+      "value": 200
+    },
+    {
+      "name": "入境总数",
+      "value": 1500
+    }
+  ],
+  "barList": [
+    {
+      "name": "境内新增",
+      "value": 280
+    },
+    {
+      "name": "入境新增",
+      "value": 210
+    },
+    {
+      "name": "境内解除",
+      "value": -89
+    },
+    {
+      "name": "入境解除",
+      "value": -210
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "jrDate" : "2021-10-21",
+  "dayBT": [
+    {
+      "value": 90,
+      "name": "在深数"
+    },
+    {
+      "value": 260,
+      "name": "境内离深"
+    },
+    {
+      "value": 130,
+      "name": "出境"
+    }
+  ],
+  "dayBTW": [
+    {
+      "value": 50,
+      "name": "在深数"
+    },
+    {
+      "value": 100,
+      "name": "境内离深"
+    },
+    {
+      "value": 150,
+      "name": "出境"
+    }
+  ],
+  "dayBTY": [
+    {
+      "value": 80,
+      "name": "在深数"
+    },
+    {
+      "value": 60,
+      "name": "境内离深"
+    },
+    {
+      "value": 50,
+      "name": "出境"
+    }
+  ],
+  "rj_total": 1000,
+  "zss": 300,
+  "jnljs": 500,
+  "cjs": 200,
+  "rjweek_total": 2000,
+  "zssweek": 1000,
+  "jnljsweek": 500,
+  "cjsweek": 500,
+  "rjy_total": 5000,
+  "zssy": 4000,
+  "jnljsy": 500,
+  "cjsy": 500
+}

@@ -1,0 +1,23 @@
+{
+  "name": "etop3d",
+  "version": "0.1.41",
+  "description": "etop3d类库方法",
+  "files": [
+    "dist"
+  ],
+  "main": "./dist/etop3d.umd.js",
+  "module": "./dist/etop3d.es.js",
+  "exports": {
+    ".": {
+      "import": "./dist/etop3d.es.js",
+      "require": "./dist/etop3d.umd.js"
+    },
+    "./dist/style.css": {
+      "import": "./dist/style.css",
+      "require": "./dist/style.css"
+    }
+  },
+  "license": "MIT",
+  "private": false,
+  "author": "yitu"
+}

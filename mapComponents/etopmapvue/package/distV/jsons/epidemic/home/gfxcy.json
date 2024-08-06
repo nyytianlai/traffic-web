@@ -1,0 +1,214 @@
+{
+  "total": 200014,
+  "hsjcrs": 100012,
+  "hsjcbl": "50%",
+  "list":[
+    {
+      "value": 110400,
+      "name": "集中监管仓",
+      "itemStyle": {
+        "color": {
+          "type": "linear",
+          "x": 1,
+          "y": 1,
+          "x2": 0,
+          "y2": 0,
+          "colorStops": [{
+              "offset": 0,
+              "color": "rgba(255,161,59,1)"
+            },
+            {
+              "offset": 1,
+              "color": "rgba(255,161,59,0.1)"
+            }
+          ],
+          "globalCoord": true
+        }
+      }
+    },
+    {
+      "value": 29600,
+      "name": "进口冷链",
+      "itemStyle": {
+        "color": {
+          "type": "linear",
+          "x": 1,
+          "y": 1,
+          "x2": 0,
+          "y2": 0,
+          "colorStops": [{
+              "offset": 0,
+              "color": "rgba(55,98,248,1)"
+            },
+            {
+              "offset": 1,
+              "color": "rgba(55,98,248,0.1)"
+            }
+          ],
+          "globalCoord": true
+        }
+      }
+    },
+    {
+      "value": 30000,
+      "name": "机场工作人员",
+      "itemStyle": {
+        "color": {
+          "type": "linear",
+          "x": 1,
+          "y": 1,
+          "x2": 0,
+          "y2": 0,
+          "colorStops": [{
+              "offset": 0,
+              "color": "rgba(14,223,255,1)"
+            },
+            {
+              "offset": 1,
+              "color": "rgba(14,223,255,0.1)"
+            }
+          ],
+          "globalCoord": true
+        }
+      }
+    },
+    {
+      "value": 20000,
+      "name": "医护人员",
+      "itemStyle": {
+        "color": {
+          "type": "linear",
+          "x": 1,
+          "y": 1,
+          "x2": 0,
+          "y2": 0,
+          "colorStops": [{
+              "offset": 0,
+              "color": "rgba(30,200,23,1)"
+            },
+            {
+              "offset": 1,
+              "color": "rgba(30,200,23,0.1)"
+            }
+          ],
+          "globalCoord": true
+        }
+      }
+    },
+    {
+      "value": 5000,
+      "name": "转运人员",
+      "itemStyle": {
+        "color": {
+          "type": "linear",
+          "x": 1,
+          "y": 1,
+          "x2": 0,
+          "y2": 0,
+          "colorStops": [{
+              "offset": 0,
+              "color": "rgba(222,194,7,1)"
+            },
+            {
+              "offset": 1,
+              "color": "rgba(222,194,7,0.1)"
+            }
+          ],
+          "globalCoord": true
+        }
+      }
+    },
+    {
+      "value": 6000,
+      "name": "边境入境工作人员",
+      "itemStyle": {
+        "color": {
+          "type": "linear",
+          "x": 1,
+          "y": 1,
+          "x2": 0,
+          "y2": 0,
+          "colorStops": [{
+            "offset": 0,
+            "color": "rgba(222,194,7,1)"
+          },
+            {
+              "offset": 1,
+              "color": "rgba(222,194,7,0.1)"
+            }
+          ],
+          "globalCoord": true
+        }
+      }
+    },
+    {
+      "value": 7000,
+      "name": "隔离点工作人员",
+      "itemStyle": {
+        "color": {
+          "type": "linear",
+          "x": 1,
+          "y": 1,
+          "x2": 0,
+          "y2": 0,
+          "colorStops": [{
+            "offset": 0,
+            "color": "rgba(222,194,7,1)"
+          },
+            {
+              "offset": 1,
+              "color": "rgba(222,194,7,0.1)"
+            }
+          ],
+          "globalCoord": true
+        }
+      }
+    },
+    {
+      "value": 8000,
+      "name": "陆路口岸工作人员",
+      "itemStyle": {
+        "color": {
+          "type": "linear",
+          "x": 1,
+          "y": 1,
+          "x2": 0,
+          "y2": 0,
+          "colorStops": [{
+            "offset": 0,
+            "color": "rgba(222,194,7,1)"
+          },
+            {
+              "offset": 1,
+              "color": "rgba(222,194,7,0.1)"
+            }
+          ],
+          "globalCoord": true
+        }
+      }
+    },
+    {
+      "value": 10000,
+      "name": "海港工作人员",
+      "itemStyle": {
+        "color": {
+          "type": "linear",
+          "x": 1,
+          "y": 1,
+          "x2": 0,
+          "y2": 0,
+          "colorStops": [{
+            "offset": 0,
+            "color": "rgba(222,194,7,1)"
+          },
+            {
+              "offset": 1,
+              "color": "rgba(222,194,7,0.1)"
+            }
+          ],
+          "globalCoord": true
+        }
+      }
+    }
+  ]
+}

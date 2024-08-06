@@ -1,0 +1,32 @@
+{
+  "hsjcList": [
+    {
+      "value": 90,
+      "name": "未核酸检测"
+    },
+    {
+      "value": 260,
+      "name": "已核酸检测"
+    }
+  ],
+  "hsjcListweek": [
+    {
+      "value": 100,
+      "name": "未核酸检测"
+    },
+    {
+      "value": 360,
+      "name": "已核酸检测"
+    }
+  ],
+  "hsjcListmon": [
+    {
+      "value": 100,
+      "name": "未核酸检测"
+    },
+    {
+      "value": 300,
+      "name": "已核酸检测"
+    }
+  ]
+}

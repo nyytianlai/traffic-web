@@ -1,0 +1,42 @@
+{
+  "type": "FeatureCollection",
+  "name": "核算检测点",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:EPSG::4490" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "fid": 0, "小区名称": "沙头角保税区", "核算检测点": "" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.238545, 22.561127]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "fid": 1, "小区名称": "沙头角保税区", "核算检测点": "" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.232748, 22.552036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "fid": 1, "小区名称": "沙头角保税区", "核算检测点": "" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.232748, 22.552036]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "fid": 1, "小区名称": "盐田区政府", "核算检测点": "" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.232216, 22.559117]
+      }
+    }
+  ]
+}

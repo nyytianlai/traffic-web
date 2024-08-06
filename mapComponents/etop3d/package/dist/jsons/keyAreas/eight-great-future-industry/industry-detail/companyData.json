@@ -1,0 +1,181 @@
+{
+  "retCode": "0",
+  "result": [
+    {
+      "sum": {
+        "industry": [
+          {
+            "name": "光明区",
+            "value1": 2
+          },
+          {
+            "name": "盐田区",
+            "value1": 8
+          },
+          {
+            "name": "大鹏新区",
+            "value1": 2
+          },
+          {
+            "name": "南山区",
+            "value1": 6
+          }
+        ],
+        "area": [
+          {
+            "name": "东部滨海国际生物谷",
+            "value1": 10
+          },
+          {
+            "name": "高新区南山园区",
+            "value1": 6
+          },
+          {
+            "name": "光明科学城",
+            "value1": 2
+          }
+        ]
+      },
+      "sum1": {
+        "industry": [
+          {
+            "name": "光明区",
+            "value1": 1
+          },
+          {
+            "name": "盐田区",
+            "value1": 2
+          },
+          {
+            "name": "大鹏新区",
+            "value1": 2
+          },
+          {
+            "name": "南山区",
+            "value1": 1
+          }
+        ],
+        "area": [
+          {
+            "name": "东部滨海国际生物谷",
+            "value1": 4
+          },
+          {
+            "name": "高新区南山园区",
+            "value1": 1
+          },
+          {
+            "name": "光明科学城",
+            "value1": 1
+          }
+        ]
+      },
+      "sum2": {
+        "industry": [
+          {
+            "name": "光明区",
+            "value1": 1
+          },
+          {
+            "name": "盐田区",
+            "value1": 1
+          },
+          {
+            "name": "大鹏新区",
+            "value1": 2
+          },
+          {
+            "name": "南山区",
+            "value1": 1
+          }
+        ],
+        "area": [
+          {
+            "name": "东部滨海国际生物谷",
+            "value1": 2
+          },
+          {
+            "name": "高新区南山园区",
+            "value1": 1
+          },
+          {
+            "name": "光明科学城",
+            "value1": 1
+          }
+        ]
+      },
+      "sum3": {
+        "industry": [
+          {
+            "name": "光明区",
+            "value1": 1
+          },
+          {
+            "name": "盐田区",
+            "value1": 1
+          },
+          {
+            "name": "大鹏新区",
+            "value1": 2
+          },
+          {
+            "name": "南山区",
+            "value1": 1
+          }
+        ],
+        "area": [
+          {
+            "name": "东部滨海国际生物谷",
+            "value1": 2
+          },
+          {
+            "name": "高新区南山园区",
+            "value1": 1
+          },
+          {
+            "name": "光明科学城",
+            "value1": 1
+          }
+        ]
+      },
+      "sum4": {
+        "industry": [
+          {
+            "name": "光明区",
+            "value1": 1
+          },
+          {
+            "name": "盐田区",
+            "value1": 6
+          },
+          {
+            "name": "大鹏新区",
+            "value1": 2
+          },
+          {
+            "name": "南山区",
+            "value1": 4
+          }
+        ],
+        "area": [
+          {
+            "name": "光明区",
+            "value1": 1
+          },
+          {
+            "name": "盐田区",
+            "value1": 1
+          },
+          {
+            "name": "大鹏新区",
+            "value1": 8
+          },
+          {
+            "name": "南山区",
+            "value1": 4
+          }
+        ]
+      }
+    }
+  ]
+}

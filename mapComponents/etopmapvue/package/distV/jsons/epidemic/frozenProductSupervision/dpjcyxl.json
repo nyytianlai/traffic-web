@@ -1,0 +1,23 @@
+{
+  "zfxList": [
+    { "value": "70", "name": "美国" }, { "value": "50", "name": "德国" },
+    { "value": "38", "name": "韩国" }, { "value": "55", "name": "日本" },
+    { "value": "35", "name": "加拿大" }, { "value": "60", "name": "瑞士" },
+    { "value": "40", "name": "新加坡" }, { "value": "65", "name": "法国" },
+    { "value": "45", "name": "俄罗斯" }
+  ],
+  "zfxList1": [
+    { "value": "60", "name": "美国" }, { "value": "30", "name": "德国" },
+    { "value": "48", "name": "韩国" }, { "value": "45", "name": "日本" },
+    { "value": "25", "name": "加拿大" }, { "value": "40", "name": "瑞士" },
+    { "value": "30", "name": "新加坡" }, { "value": "55", "name": "法国" },
+    { "value": "55", "name": "俄罗斯" }
+  ],
+  "zfxList2": [
+    { "value": "80", "name": "美国" }, { "value": "40", "name": "德国" },
+    { "value": "58", "name": "韩国" }, { "value": "65", "name": "日本" },
+    { "value": "35", "name": "加拿大" }, { "value": "80", "name": "瑞士" },
+    { "value": "60", "name": "新加坡" }, { "value": "75", "name": "法国" },
+    { "value": "65", "name": "俄罗斯" }
+  ]
+}

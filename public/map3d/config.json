@@ -1,0 +1,154 @@
+﻿{
+  "map3d": {
+    "scene": {
+      "center": {
+        "x": 114.17,
+        "y": 22.65,
+        "z": 100000,
+        "pitch": -90,
+        "roll": 0
+      },
+      "contextOptions": {
+        "infoBox": false,
+        "webgl": {
+          "preserveDrawingBuffer": true
+        }
+      },
+      "scene3DOnly": false,
+      "shadows": false,
+      "removeDblClick": true,
+      "sceneMode": 3,
+      "showSun": true,
+      "showMoon": false,
+      "showSkyBox": false,
+      "showSkyAtmosphere": true,
+      "fog": true,
+      "fxaa": true,
+      "globe": {
+        "depthTestAgainstTerrain": false,
+        "baseColor": "#2B323E",
+        "showGroundAtmosphere": true,
+        "enableLighting": false
+      },
+      "cameraController": {
+        "zoomFactor": 3.0,
+        "minimumZoomDistance": 50,
+        "maximumZoomDistance": 700000,
+        "enableRotate": true,
+        "enableTranslate": true,
+        "enableTilt": true,
+        "enableZoom": true,
+        "enableCollisionDetection": true,
+        "minimumCollisionTerrainHeight": 15000
+      }
+    },
+    "control": {
+      "homeButton": false,
+      "baseLayerPicker": false,
+      "sceneModePicker": false,
+      "vrButton": false,
+      "fullscreenButton": false,
+      "navigationHelpButton": false,
+      "animation": false,
+      "timeline": false,
+      "infoBox": false,
+      "geocoder": false,
+      "geocoderConfig": {
+        "key": ["ae29a37307840c7ae4a785ac905927e0"]
+      },
+      "selectionIndicator": false,
+      "defaultContextMenu": false,
+      "mouseDownView": false,
+      "contextmenu": {
+        "preventDefault": false,
+        "hasDefault": false
+      },
+      "locationBar": {
+        "enabled":false,
+        "fps": true,
+        "crs": "CGCS2000_GK_Zone_3",
+        "crsDecimal": 0,
+        "template": "<div>经度:{lng}</div> <div>纬度:{lat}</div> <div class='hide1000'>横{crsx}  纵{crsy}</div> <div>海拔：{alt}米</div> <div class='hide700'>层级：{level}</div><div>方向：{heading}°</div> <div>俯仰角：{pitch}°</div><div class='hide700'>视高：{cameraHeight}米</div>"
+      }
+    },
+    "extend_sz": {
+      "west" : 113.531,
+      "south"	: 22.935,
+      "east"	:114.713,
+      "north" : 22.352
+    },
+    "extend_ss": {
+      "west" : 114.68815432965872,
+      "south"	: 22.638449324268855,
+      "east"	: 115.42826684515776,
+      "north" : 23.080914210824943
+    },
+    "licenseKey":"yO+ChHjBx7FZmtGQnUVVCVe8JcKfj0ggEmqjUkBrTOEk9EF+j3Nk65pqSo5W8+Qz",
+    "gz_path":"http://10.253.102.69",
+    "terrain":{
+      "name":"地形30米",
+      "url":"/gw/COMMON/dem/dem30/",
+      "queryParameters":{
+        "TileMatrixSet": "EPSG:4490",
+        "layer":"dem30"
+      }
+    },
+    "basemaps": {
+      "gzSatelliteST": {
+        "type": "xyz",
+        "option": {
+          "id": "gzSatelliteST",
+          "name": "深汕区航空影像(2019年)",
+          "url": "/gw/OGC/Map/SS_IMG_2019/{z}/{x}/{y}",
+          "subdomains": "1234"
+        }
+      },
+      "gzSatellite": {
+        "type": "xyz",
+        "option": {
+          "id": "gzSatellite",
+          "name": "深圳市航空影像(2020年)",
+          "url": "/gw/OGC/Map/SZ_IMG_2020/{z}/{x}/{y}",
+          "subdomains": "1234"
+        }
+      },
+      "gzWhiteSatellite": {
+        "type": "xyz",
+        "option": {
+          "id": "gzWhiteSatellite",
+          "name": "深圳市电子地图底图淡白色版(4490)",
+          "url": "/gw/OGC/Map/SZ_VEC_W4490/rest/w_shenzhen/EPSG:4490/EPSG:4490:{sz}/{y}/{x}?format=image/png"
+        }
+      },
+      "gzBlueSatellite": {
+        "type": "xyz",
+        "option": {
+          "id": "gzBlueSatellite",
+          "name": "深圳市电子地图蓝色版（4490）",
+          "subdomains": "0123",
+          "url": "/gw/OGC/Map/YWTG_SZ_VEC/rest/YWTG:YWTG/EPSG:4490/EPSG:4490:{sz}/{y}/{x}?format=image/png"
+        }
+      },
+      "gzWhiteModel": {
+        "type": "tile",
+        "option": {
+          "id": "gzWhiteModel",
+          "name": "深圳市白模建筑",
+          "url": "/gw/TILE_3D_MODEL/sz/shenzhenBM/tileset.json"
+        }
+      },
+      "gzSZTiles": {
+        "type": "tile",
+        "option": {
+          "id": "gzSZTiles",
+          "name": "深圳市倾斜摄影模型(2020年)",
+          "url": "/gw/TILE_3D_MODEL/sz/shenzhen/tileset.json"
+        }
+      }
+    },
+    "development":{
+      "devMode":"development",
+      "publicPath":"" 
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "etopmapvue",
+  "version": "0.1.42",
+  "description": "etopmap的vue组件",
+  "files": [
+    "distV"
+  ],
+  "main": "./distV/etopmapVue.umd.js",
+  "module": "./distV/etopmapVue.es.js",
+  "exports": {
+    ".": {
+      "import": "./distV/etopmapVue.es.js",
+      "require": "./distV/etopmapVue.umd.js"
+    },
+    "./distV/style.css": {
+      "import": "./distV/style.css",
+      "require": "./distV/style.css"
+    }
+  },
+  "license": "MIT",
+  "private": false,
+  "author": "yitu"
+}

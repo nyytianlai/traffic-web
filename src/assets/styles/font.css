@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'DINAlternate-Bold';
+
+  src: url('../fonts/DIN Alternate Bold.ttf');
+}
+
+@font-face {
+  font-family: 'DINCondensed-Bold';
+
+  font-display: swap;
+  src: url('../fonts/DIN Condensed Bold.ttf');
+}
+
+@font-face {
+  font-family: 'DS-Digital';
+
+  font-display: swap;
+  src: url('../fonts/DS-DIGI-1.ttf');
+}
+
+@font-face {
+  font-family: 'DS-Digital2';
+
+  font-display: swap;
+  src: url('../fonts/DS-DIGI-2.ttf');
+}
+
+@font-face {
+  font-family: 'DS-Digital3';
+
+  font-display: swap;
+  src: url('../fonts/DS-DIGI-3.ttf');
+}
+
+@font-face {
+  font-family: 'DS-Digital4';
+
+  font-display: swap;
+  src: url('../fonts/DS-DIGI-4.ttf');
+}

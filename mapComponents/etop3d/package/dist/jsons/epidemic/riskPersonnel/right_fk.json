@@ -1,0 +1,106 @@
+{
+  "ryqkList": [
+    {
+      "title": "已落地追踪",
+      "number": 100
+    },
+    {
+      "title": "未落地追踪",
+      "number": 100
+    },
+    {
+      "title": "追踪率",
+      "number": 100
+    },
+    {
+      "title": "已核酸检测",
+      "number": 100
+    },
+    {
+      "title": "未核酸检测",
+      "number": 100
+    },
+    {
+      "title": "核酸检测率",
+      "number": 100
+    }
+  ],
+  "ryqkList2": [
+    {
+      "title": "已落地追踪",
+      "number": 120
+    },
+    {
+      "title": "未落地追踪",
+      "number": 120
+    },
+    {
+      "title": "追踪率",
+      "number": 120
+    },
+    {
+      "title": "已核酸检测",
+      "number": 120
+    },
+    {
+      "title": "未核酸检测",
+      "number": 120
+    },
+    {
+      "title": "核酸检测率",
+      "number": 120
+    }
+  ],
+  "ryqkList1": [
+    {
+      "title": "密接次密接",
+      "number": 50
+    },
+    {
+      "title": "高风险来(返)深",
+      "number": 80
+    },
+    {
+      "title": "中风险来(返)深",
+      "number": 100
+    },
+    {
+      "title": "高风险地区所在县来(返)深",
+      "number": 10
+    },
+    {
+      "title": "输入风险高的地区来(返)深",
+      "number": 50
+    },
+    {
+      "title": "其他有病例报告的地区来(返)深",
+      "number": 20
+    }
+  ],
+  "ryqkList3": [
+    {
+      "title": "密接次密接",
+      "number": 60
+    },
+    {
+      "title": "高风险来(返)深",
+      "number": 60
+    },
+    {
+      "title": "中风险来(返)深",
+      "number": 60
+    },
+    {
+      "title": "高风险地区所在县来(返)深",
+      "number": 60
+    },
+    {
+      "title": "输入风险高的地区来(返)深",
+      "number": 60
+    },
+    {
+      "title": "其他有病例报告的地区来(返)深",
+      "number": 60
+    }
+  ]
+}

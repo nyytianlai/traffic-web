@@ -1,0 +1,32 @@
+{
+"type": "FeatureCollection",
+"name": "小区卡口",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "name": "蓝郡广场小区卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.231914715753703, 22.551136696617693 ], [ 114.233041121454178, 22.553748810037817 ] ] } },
+{ "type": "Feature", "properties": { "fid": 2, "name": "海景花园B区小区卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.232023904583968, 22.551110873006781 ], [ 114.232850662389552, 22.550915341202266 ], [ 114.233357878557612, 22.5536244492314 ] ] } },
+{ "type": "Feature", "properties": { "fid": 3, "name": "瑞林苑、翠景花园小区卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.232490742229857, 22.561353717600575 ] ] } },
+{ "type": "Feature", "properties": { "fid": 4, "name": "上善梧桐苑小区卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.230740353136156, 22.563628853425183 ] ] } },
+{ "type": "Feature", "properties": { "fid": 5, "name": "棕榈湾花园小区卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.231599940318915, 22.550191772998957 ] ] } },
+{ "type": "Feature", "properties": { "fid": 6, "name": "暗径新村卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.2315005855951, 22.560447959129188 ] ] } },
+{ "type": "Feature", "properties": { "fid": 7, "name": "暗径新村中巷卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.230987430764785, 22.55997133480853 ] ] } },
+{ "type": "Feature", "properties": { "fid": 8, "name": "暗径西村卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.230672379773068, 22.559678710877524 ] ] } },
+{ "type": "Feature", "properties": { "fid": 9, "name": "保税区第一生活区卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.231252222396705, 22.561649474148208 ], [ 114.230777876819289, 22.561249161044966 ] ] } },
+{ "type": "Feature", "properties": { "fid": 10, "name": "叶屋东街（梧桐路）卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.227200306309783, 22.557841223868181 ] ] } },
+{ "type": "Feature", "properties": { "fid": 11, "name": "群利公司宿舍楼卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.227816431089465, 22.556322401779532 ] ] } },
+{ "type": "Feature", "properties": { "fid": 12, "name": "叶屋东街（深盐路）卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.228353267130984, 22.556579474474013 ] ] } },
+{ "type": "Feature", "properties": { "fid": 13, "name": "井头西街（梧桐路）卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.228190601340685, 22.558555458051604 ] ] } },
+{ "type": "Feature", "properties": { "fid": 14, "name": "井头村卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.229800525919117, 22.559559625806425 ] ] } },
+{ "type": "Feature", "properties": { "fid": 15, "name": "壹海城二区小区卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.233828166197526, 22.557654329284272 ] ] } },
+{ "type": "Feature", "properties": { "fid": 16, "name": "悦林大厦小区卡口" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ 114.231114680016447, 22.562682703821881 ] ] } }
+,
+    {
+      "type": "Feature",
+      "properties": { "fid": 17, "小区名称": "盐田区政府电子哨兵", "电子哨兵": "" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.233182, 22.560381]
+      }
+    }
+]
+}

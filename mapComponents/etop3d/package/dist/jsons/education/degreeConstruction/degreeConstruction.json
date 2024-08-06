@@ -1,0 +1,59 @@
+{
+  "code": 200,
+  "msg": "success",
+  "data": {
+    "searchData": [
+      {
+        "id": 1,
+        "name": "市第二十二高级中学",
+        "type": "普通高中",
+        "state": "已建学校"
+      },
+      {
+        "id": 2,
+        "name": "华龙幼儿园",
+        "type": "幼儿园",
+        "state": "代建学校"
+      },
+      {
+        "id": 3,
+        "name": "龙飞小学",
+        "type": "义务教育",
+        "state": "在建学校"
+      }
+    ],
+    "schoolList": {
+      "title": "沙井街道和一九年一贯制学校建设",
+      "type": "九年一贯制学校",
+      "category": "义务教育",
+      "responsibleUnit": "宝安区",
+      "nature": "新建",
+      "scale": "小学18个班（810座学位），初中18个班（900座）",
+      "address": "深圳市宝安区沙井街道沙头社区",
+      "area": 9107,
+      "sumCategory": 21356,
+      "constructionUnit": "（在建）工程监督",
+      "state": "在建",
+      "commencementTime": "2016年7月",
+      "openingTime": "2022年9月",
+      "totalInvestment": 0,
+      "invested": 0,
+      "progress": "当前完工"
+    },
+    "videoList": [
+      {
+        "title": "松岗第二小学全景球机",
+        "image": "video1"
+      },
+      {
+        "title": "松岗第二小学大门-人员出入口",
+        "image": "video2"
+      },
+      {
+        "title": "松岗第二小学大门-人员出入口",
+        "image": "video3"
+      }
+    ],
+    "infoImagesList": ["school1", "school2"]
+  }
+}

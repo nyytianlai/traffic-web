@@ -1,0 +1,113 @@
+[
+  {
+    "id": "1",
+    "label": "7-17南京外溢疫情",
+    "percent": 50,
+    "levels": [
+      {
+        "level": 1,
+        "label": "高风险地区人员来(返)深人员",
+        "counts": 44,
+        "compare": 0
+      },
+      {
+        "level": 2,
+        "label": "中风险地区人员来(返)深人员",
+        "counts": 944,
+        "compare": 0
+      },
+      {
+        "level": 3,
+        "label": "高风险地区所在县区来(返)深人员",
+        "counts": 8892,
+        "compare": 0
+      },
+      {
+        "level": 4,
+        "label": "输入高风险的地方来(返)深人员",
+        "counts": 8892,
+        "compare": 0
+      },
+      {
+        "level": 5,
+        "label": "其他有病例报告的地市来(返)深人员",
+        "counts": 8892,
+        "compare": 0
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "label": "6-14机场疫情",
+    "percent": 80,
+    "levels": [
+      {
+        "level": 1,
+        "label": "高风险地区人员来(返)深人员",
+        "counts": 46,
+        "compare": 0
+      },
+      {
+        "level": 2,
+        "label": "中风险地区人员来(返)深人员",
+        "counts": 946,
+        "compare": 0
+      },
+      {
+        "level": 3,
+        "label": "高风险地区所在县区来(返)深人员",
+        "counts": 8896,
+        "compare": 0
+      },
+      {
+        "level": 4,
+        "label": "输入高风险的地方来(返)深人员",
+        "counts": 8896,
+        "compare": 0
+      },
+      {
+        "level": 5,
+        "label": "其他有病例报告的地市来(返)深人员",
+        "counts": 8896,
+        "compare": 0
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "label": "5-21盐田疫情",
+    "percent": 90,
+    "levels": [
+      {
+        "level": 1,
+        "label": "高风险地区人员来(返)深人员",
+        "counts": 54,
+        "compare": 0
+      },
+      {
+        "level": 2,
+        "label": "中风险地区人员来(返)深人员",
+        "counts": 954,
+        "compare": 0
+      },
+      {
+        "level": 3,
+        "label": "高风险地区所在县区来(返)深人员",
+        "counts": 5892,
+        "compare": 0
+      },
+      {
+        "level": 4,
+        "label": "输入高风险的地方来(返)深人员",
+        "counts": 5892,
+        "compare": 0
+      },
+      {
+        "level": 5,
+        "label": "其他有病例报告的地市来(返)深人员",
+        "counts": 8892,
+        "compare": 0
+      }
+    ]
+  }
+]

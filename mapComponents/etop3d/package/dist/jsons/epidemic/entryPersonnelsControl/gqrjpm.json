@@ -1,0 +1,25 @@
+{
+  "total": 3501,
+  "list":  [
+    {
+      "value": 90,
+      "name": "宝安区",
+      "compare": 1
+    },
+    {
+      "value": 80,
+      "name": "罗湖区",
+      "compare": 2
+    },
+    {
+      "value": 100,
+      "name": "福田区",
+      "compare": 3
+    },
+    {
+      "value": 260,
+      "name": "南山区",
+      "compare": 4
+    }
+  ]
+}

@@ -1,0 +1,4088 @@
+{
+  "retCode": 0,
+  "results": [
+    {
+      "type": "企业",
+      "data": [
+        {
+          "key": "1",
+          "index": "1",
+          "name": "上海凯赛生物技术股份有限公司",
+          "region": "上海市",
+          "research": "合成生物领域科研、生物法长链二元酸，生物基尼龙。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "2",
+          "index": "2",
+          "name": "博雅辑因(北京)生物科技有限公司",
+          "region": "北京市",
+          "research": "基因编辑自体造血干细胞、通用性CAR-T平台、RNA碱基编辑平台、高通量基因组编辑筛选、新药研发平台。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "3",
+          "index": "3",
+          "name": "北京合生基因科技有限公司",
+          "region": "北京市",
+          "research": "智能靶向肿瘤基因治疗药物平台、基因治疗药物工艺开发平台、基因治疗药物转化医学平台、合成生物学技术服务平台。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "4",
+          "index": "4",
+          "name": "北京蓝晶微生物科技有限公司",
+          "region": "北京市",
+          "research": "生产全生物合成的生物可降解材料PHA、针对新病原体的新型检测方法研究、病原体的耐药性检测、微生物细胞生产多种有机分子。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "5",
+          "index": "5",
+          "name": "南京金斯瑞生物科技有限公司",
+          "region": "南京市",
+          "research": "基因合成、生物药研发、多肽合成、蛋白表达、试剂抗体开发、引物合成、分子诊断。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "6",
+          "index": "6",
+          "name": "康希诺生物",
+          "region": "天津市",
+          "research": "腺病毒载体疫苗技术、蛋白结构设计和重组技术、合成生物学技术和制剂技术。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "7",
+          "index": "7",
+          "name": "华熙生物科技股份有限公司",
+          "region": "济南市",
+          "research": "生物活性材料、透明质酸全产业链平台。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "8",
+          "index": "8",
+          "name": "杭州启函生物科技有限公司",
+          "region": "杭州市",
+          "research": "高通量基因编辑技术、移植免疫的受体兼容改造。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "9",
+          "index": "9",
+          "name": "杭州恩和生物科技有限公司",
+          "region": "杭州市",
+          "research": "标准化、自动化的高通量湿实验平台。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "10",
+          "index": "10",
+          "name": "苏州艾博生物科技有限公司",
+          "region": "苏州市",
+          "research": "mRNA疫苗技术。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "11",
+          "index": "11",
+          "name": "Amyris",
+          "region": "美国",
+          "research": "燃料和化学品的可再生产品研发、酵母菌株改造。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "12",
+          "index": "12",
+          "name": "Precigen",
+          "region": "美国",
+          "research": "生物制药、基因和细胞治疗。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "13",
+          "index": "13",
+          "name": "Twist Bioscience",
+          "region": "美国",
+          "research": "DNA合成、疾病诊断、DNA数据储存。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "14",
+          "index": "14",
+          "name": "Ginkgo Bioworks",
+          "region": "美国",
+          "research": "基因改造、细胞编程平台、酵母和细菌改造、哺乳动物细胞基因组工程、香料及香精研发。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "15",
+          "index": "15",
+          "name": "Codexis",
+          "region": "美国",
+          "research": "酶工程、生物催化剂、基因治疗、生物制药。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "16",
+          "index": "16",
+          "name": "Impossible Foods",
+          "region": "美国",
+          "research": "植物性肉类研究、奶酪替代品研究。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "17",
+          "index": "17",
+          "name": "Resilience",
+          "region": "美国",
+          "research": "生物制药、细胞和基因治疗、病毒载体、疫苗研发。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "18",
+          "index": "18",
+          "name": "ElevateBio",
+          "region": "美国",
+          "research": "细胞和基因治疗、诱导多能干细胞以及蛋白质、病毒和细胞工程。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "19",
+          "index": "19",
+          "name": "Insitro",
+          "region": "美国",
+          "research": "基于生物学的机器学习研究。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "20",
+          "index": "20",
+          "name": "Apeel Sciences",
+          "region": "美国",
+          "research": "研发针对农作物的植物性保护层。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "21",
+          "index": "21",
+          "name": "Moderna Therapeutics",
+          "region": "美国",
+          "research": "癌症免疫治疗，基于mRNA的药物研发、疫苗研发(包括新冠病毒疫苗)、医疗诊断。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "22",
+          "index": "22",
+          "name": "zymergen",
+          "region": "美国",
+          "research": "基于生物学的机器学习、AI及自动化研究、基因组学、微生物定向改造。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "23",
+          "index": "23",
+          "name": "Horizon Discovery",
+          "region": "英国",
+          "research": "基因编辑、基因检测、细胞工程。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "24",
+          "index": "24",
+          "name": "Synthorx",
+          "region": "美国",
+          "research": "癌症和自身免疫疾病疗法。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "25",
+          "index": "25",
+          "name": "indigo",
+          "region": "美国",
+          "research": "农业用微生物、计算生物学平台、菌株筛选。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "26",
+          "index": "26",
+          "name": "lanzatech",
+          "region": "美国",
+          "research": "利用微生物和二氧化碳废气制造乙醇、利用二氧化碳转化为Omega 3脂肪酸、生物大数据研究。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "27",
+          "index": "27",
+          "name": "Bolt Threads",
+          "region": "美国",
+          "research": "人造蜘蛛丝面料研发、基于生物技术的可持续材料研发。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "28",
+          "index": "28",
+          "name": "Sana Biotechnology",
+          "region": "美国",
+          "research": "基因和细胞工程制药、基因编辑。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "29",
+          "index": "29",
+          "name": "CRISPR Therapeutics",
+          "region": "瑞士",
+          "research": "基因编辑、DNA定向改造、肿瘤免疫治疗。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "30",
+          "index": "30",
+          "name": "Editas Medicine",
+          "region": "美国",
+          "research": "基因编辑、遗传性眼病的基因治疗、实体肿瘤治疗。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "31",
+          "index": "31",
+          "name": "Intellia Therapeutics",
+          "region": "美国",
+          "research": "基因编辑、癌症和自身免疫性疾病工程细胞疗法。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "32",
+          "index": "32",
+          "name": "Beam Therapeutics",
+          "region": "美国",
+          "research": "基因编辑、生物制药。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "33",
+          "index": "33",
+          "name": "Ambrx ",
+          "region": "美国",
+          "research": "遗传密码扩增平台开发蛋白质疗法、非天然氨基酸掺入技术平台。",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "34",
+          "index": "34",
+          "name": "浙商银行股份有限公司",
+          "region": "杭州市",
+          "research": "应收款链平台、仓单通、浙商银行场外交易平台。",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "35",
+          "index": "35",
+          "name": "远光软件股份有限公司",
+          "region": "珠海市",
+          "research": "应用-能源、应用-电子政务。",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "36",
+          "index": "36",
+          "name": "百度在线网络技术（北京）有限公司",
+          "region": "北京市",
+          "research": "底层平台。",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "37",
+          "index": "37",
+          "name": "京东科技控股股份有限公司",
+          "region": "北京市",
+          "research": "应用-公益、应用-商品溯源。",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "38",
+          "index": "38",
+          "name": "北京比特大陆科技有限公司",
+          "region": "北京市",
+          "research": "Circle、塔链、库神、区块链硬件。",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "39",
+          "index": "39",
+          "name": "智链万源（北京）数字科技有限公司",
+          "region": "北京市",
+          "research": "智真链（Salix）区块链溯源平台。",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "40",
+          "index": "40",
+          "name": "广州智链通科技有限公司",
+          "region": "广州市",
+          "research": "智链通区块链智慧物流共享云平台。",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "41",
+          "index": "41",
+          "name": "上海龙纪网络科技有限公司",
+          "region": "上海市",
+          "research": "智链盾。",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "42",
+          "index": "42",
+          "name": "山东浪潮质量链科技有限公司",
+          "region": "济南市",
+          "research": "质量链。",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "43",
+          "index": "43",
+          "name": "58COIN",
+          "region": "英国",
+          "research": "区块链技术。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "44",
+          "index": "44",
+          "name": "A.P. Moller-Maersk",
+          "region": "丹麦",
+          "research": "Trade Lens；超级账本Fabric；IBM区块链。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "45",
+          "index": "45",
+          "name": "Abaxx Technologies",
+          "region": "加拿大",
+          "research": "基于区块链的中间件平台和应用程序的第一家上市供应商。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "46",
+          "index": "46",
+          "name": "All It Top",
+          "region": "韩国",
+          "research": "区块链技术。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "47",
+          "index": "47",
+          "name": "Amazon",
+          "region": "美国",
+          "research": "提供积极的平台、以及其他线上商户数字钱包服务。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "48",
+          "index": "48",
+          "name": "BHP",
+          "region": "澳大利亚",
+          "research": "MineHub, Hyperledger Fabric。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "49",
+          "index": "49",
+          "name": "BiKi",
+          "region": "新加坡",
+          "research": "数字货币交易服务提供商。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "50",
+          "index": "50",
+          "name": "Binance（币安）",
+          "region": "开曼群岛",
+          "research": "比特币、币安区块链。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "51",
+          "index": "51",
+          "name": "BitMax",
+          "region": "新加坡",
+          "research": "数字资产交易的全球运营商。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "52",
+          "index": "52",
+          "name": "BTC.com",
+          "region": "荷兰",
+          "research": "安全可靠的比特币钱包；开源且功能齐全的矿池。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "53",
+          "index": "53",
+          "name": "Chainlink",
+          "region": "开曼群岛（英属）",
+          "research": "为任何区块链上复杂智能合约提供可靠防篡改输入和输出。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "54",
+          "index": "54",
+          "name": "Cisco",
+          "region": "美国",
+          "research": "全球领先的网络解决方案供应商。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "55",
+          "index": "55",
+          "name": "Cobo",
+          "region": "日本",
+          "research": "提供商业应用软件和网络服务的开发和销售。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "56",
+          "index": "56",
+          "name": "Coinbase",
+          "region": "美国",
+          "research": "比特币、以太坊等。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "57",
+          "index": "57",
+          "name": "CoinEx",
+          "region": "中国香港",
+          "research": "全球专业的数字货币兑换服务商。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "58",
+          "index": "58",
+          "name": "CONA Services",
+          "region": "美国",
+          "research": "Baseline、以太坊、超级站本Fabric。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "59",
+          "index": "59",
+          "name": "Digital Gold",
+          "region": "韩国",
+          "research": "区块链技术。",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "60",
+          "index": "60",
+          "name": "南京金斯瑞生物科技有限公司",
+          "region": "南京市",
+          "research": "全球领先的生物技术公司和生物药研发CRO公司，为客户提供基因、多肽、蛋白、抗体、细胞系等药物研发所需的生物试剂，和新药筛选、小分子药物和大分子药物开发等早期药物研发服务。",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "61",
+          "index": "61",
+          "name": "苏州博腾生物制药有限公司",
+          "region": "苏州市",
+          "research": "聚焦细胞与基因治疗服务，搭建了质粒，病毒载体和细胞治疗产品为一体的CDMO平台，可满足从工艺开发到商业化生产的需求，公司荣登2021年中国潜在独角兽企业榜单。",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "62",
+          "index": "62",
+          "name": "南京诺唯赞生物科技股份有限公司",
+          "region": "南京市",
+          "research": "国内分子类生物试剂细分龙头，有望受益于下游mRNA疫苗商业化进程。",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "63",
+          "index": "63",
+          "name": "和元生物技术（上海）股份有限公司",
+          "region": "上海市",
+          "research": "聚焦基因治疗载体产品、溶瘤病毒产品及CAR-T产品的先导研究和药物研发一体化CDMO服务。2020年度基因治疗CDMO业务实现营收1.02亿元。",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "64",
+          "index": "64",
+          "name": "博雅辑因（北京）生物科技有限公司",
+          "region": "北京市",
+          "research": "中国基因编辑治疗的先行者。",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "65",
+          "index": "65",
+          "name": "成都康华生物制品股份有限公司",
+          "region": "成都市",
+          "research": "细胞基因治疗。",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "66",
+          "index": "66",
+          "name": "广州达安基因股份有限公司",
+          "region": "广州市",
+          "research": "细胞基因治疗。",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "67",
+          "index": "67",
+          "name": "袁隆平农业高科技股份有限公司",
+          "region": "长沙市",
+          "research": "全面覆盖生物技术平台、传统育种平台、测试评价平台。",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "68",
+          "index": "68",
+          "name": "荃银高科",
+          "region": "合肥市",
+          "research": "农学、生命科学",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "69",
+          "index": "69",
+          "name": "上海恒瑞医药有限公司",
+          "region": "上海市",
+          "research": "细胞与基因治疗药物研发、CDMO。",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "70",
+          "index": "70",
+          "name": "Oxford Biomedica",
+          "region": "英国",
+          "research": "世界一流的慢病毒载体CDMO，致力于独立或者合作进行基因和细胞治疗的研究，研究领域覆盖了眼科疾病、中枢神经系统疾病、肝脏疾病、呼吸系统疾病和肿瘤治疗等。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "71",
+          "index": "71",
+          "name": "诺华",
+          "region": "瑞士",
+          "research": "CAR-T细胞治疗，AAV疗法和基因编辑技术。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "72",
+          "index": "72",
+          "name": "Sangamo Therapeutics",
+          "region": "美国",
+          "research": "利用锌指蛋白技术进行基因治疗研发领域一枝独秀。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "73",
+          "index": "73",
+          "name": "Pharmicell",
+          "region": "韩国",
+          "research": "干细胞治疗。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "74",
+          "index": "74",
+          "name": "安地种业",
+          "region": "印度",
+          "research": "DNA 测序、合成、基因编辑、生物信息学或细胞培养基产品。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "75",
+          "index": "75",
+          "name": "巴斯夫股份公司",
+          "region": "德国",
+          "research": "DNA 测序、合成、基因编辑。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "76",
+          "index": "76",
+          "name": "拜耳公司",
+          "region": "德国",
+          "research": "是一家在医药保健、作物营养领域拥有核心竞争力的全球性企业；干细胞疗法，基因扩增技术，以及基因编辑和同种异体干细胞疗法。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "77",
+          "index": "77",
+          "name": "罗氏",
+          "region": "欧洲",
+          "research": "同种异体细胞疗法、基因治疗。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "78",
+          "index": "78",
+          "name": "日本日立化学有限公司",
+          "region": "日本",
+          "research": "细胞治疗产品的CMO服务商。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "79",
+          "index": "79",
+          "name": "瑞克斯旺种子公司",
+          "region": "荷兰",
+          "research": "基因培养农作物。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "80",
+          "index": "80",
+          "name": "广州海格通信集团股份有限公司",
+          "region": "广州市",
+          "research": "军工通信龙头，是国内军用通讯导航的最大整机供应商。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "81",
+          "index": "81",
+          "name": "北京北斗星通导航技术股份有限公司",
+          "region": "北京市",
+          "research": "北斗GNSS卫星导航定位产品、北斗车辆作业监控管理系统、卫星运营等。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "82",
+          "index": "82",
+          "name": "北京超图软件股份有限公司",
+          "region": "北京市",
+          "research": "聚焦地理信息系统相关软件技术研发与应用服务。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "83",
+          "index": "83",
+          "name": "北京华力创通科技股份有限公司",
+          "region": "北京市",
+          "research": "卫星导航仿真测试、卫星导航芯片和接收机开发、导航和通讯天线开发、半实物仿真测试、射频仿真测试、仿真应用开发服务等方向和应用领域积累了雄厚的核心技术和研发能力。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "84",
+          "index": "84",
+          "name": "成都振芯科技股份有限公司",
+          "region": "成都市",
+          "research": "北斗卫星导航应用关键元器件、高性能集成电路、北斗卫星导航终端及北斗卫星导航定位应用系统。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "85",
+          "index": "85",
+          "name": "上海华测导航技术股份有限公司",
+          "region": "上海市",
+          "research": "主要产品和服务涵盖高精度测地型GNSS接收机、GIS数据采集终端、组合导航系统、移动测绘等解决方案以及相关软件开发应用等方面。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "86",
+          "index": "86",
+          "name": "中国东方红卫星股份有限公司",
+          "region": "北京市",
+          "research": "具有天地一体化设计、研制、集成和运营服务能力，专注于宇航制造和航天技术应用两大主业的企业集团。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "87",
+          "index": "87",
+          "name": "珠海欧比特宇航科技股份有限公司",
+          "region": "珠海市",
+          "research": "针对地理信息、智慧城市等领域对高时空分辨率卫星大数据的迫切需求，正在打造基于微纳卫星的“卫星空间信息平台”。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "88",
+          "index": "88",
+          "name": "河南航天工业总公司",
+          "region": "郑州市",
+          "research": "为导弹武器系统、卫星、军用飞机、神舟系列飞船配套。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "89",
+          "index": "89",
+          "name": "星软集团有限公司",
+          "region": "杭州市",
+          "research": "拥有星软电子、星软科技、联看科技、联业科技等。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "90",
+          "index": "90",
+          "name": "波音公司",
+          "region": "美国",
+          "research": "民用和军用飞机、卫星、武器、电子和防御系统、发射系统、先进信息和通讯系统，以及基于性能的物流和培训等。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "91",
+          "index": "91",
+          "name": "空中客车公司",
+          "region": "法国",
+          "research": "设计、制造和交付行业领先的商用飞机、直升机、军用运输工具、卫星和运载火箭，并为全球客户提供数据服务、导航、安全通信、城市移动和其他解决方案。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "92",
+          "index": "92",
+          "name": "诺斯洛普·格鲁门公司",
+          "region": "美国",
+          "research": "为美国和国外的军方、政府和商业客户提供系统同化，防卫电器和信息技术的创新解决方案。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "93",
+          "index": "93",
+          "name": "雷神公司",
+          "region": "美国",
+          "research": "美国的大型国防合约商。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "94",
+          "index": "94",
+          "name": "赛峰集团",
+          "region": "法国",
+          "research": "航空航天推进，航空航天设备，防务-安全和通讯。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "95",
+          "index": "95",
+          "name": "劳斯莱斯公司",
+          "region": "英国",
+          "research": "制造汽车，劳斯莱斯还涉足航空发动机制造的领域，也是一家优秀的发动机制造商，空客飞机部分型号用的就是劳斯莱斯的发动机。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "96",
+          "index": "96",
+          "name": "诺斯罗普·格鲁曼公司",
+          "region": "法国",
+          "research": "跨国军火工业与航空太空设备公司。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "97",
+          "index": "97",
+          "name": "L-3通信公司",
+          "region": "美国",
+          "research": "主要业务为航天与防务通信系统，提供多种航空及国防使用产品和服务，是全球最大的国防承包商之一。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "98",
+          "index": "98",
+          "name": "吉凯恩集团",
+          "region": "英国",
+          "research": "汽车传动系统独立的飞机结构件和航空航天复合材料部件供应商。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "99",
+          "index": "99",
+          "name": "优脑银河",
+          "region": "北京市",
+          "research": "“个体精准脑功能图谱”，推动脑的认知和机制理解，专注于脑疾病检测和治疗，致力帮助拥有健康大脑，推动类脑智能的发展。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "100",
+          "index": "100",
+          "name": "柔灵科技",
+          "region": "浙江省",
+          "research": "专注于非侵入式脑机接口在消费电子领域和医疗领域的应用，主要的应用场景在睡眠监测领域。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "101",
+          "index": "101",
+          "name": "博睿康",
+          "region": "常州市",
+          "research": "以自主创新的“脑-机接口”技术为核心，专业从事脑-机接口系统相关设备的研发、生产、销售以及技术服务。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "102",
+          "index": "102",
+          "name": "脑医生（铱硙医疗科技有限公司）",
+          "region": "上海市",
+          "research": "中枢神经系统疾病诊疗方案的提供商，拥有领先的脑病辅助诊疗技术。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "103",
+          "index": "103",
+          "name": "联强智创",
+          "region": "北京市",
+          "research": "神经科学领域的人工智能辅助诊疗等个性化医疗产品的研发和生产。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "104",
+          "index": "104",
+          "name": "Neuralink",
+          "region": "美国",
+          "research": "目前正在研发可将人脑与电脑直接连接起来的大脑植入物。",
+          "overseas": "境外",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "105",
+          "index": "105",
+          "name": "G-Therapeutics",
+          "region": "瑞士",
+          "research": "植入式神经刺激装置，它能提供电刺激的特定脉冲，以促进腿部肌肉的激活。",
+          "overseas": "境外",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "106",
+          "index": "106",
+          "name": "Rythm",
+          "region": "法国",
+          "research": "使用EEG电极来监测和分析睡眠过程中的大脑活动。",
+          "overseas": "境外",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "107",
+          "index": "107",
+          "name": "HALO Neuroscience",
+          "region": "美国",
+          "research": "研究大脑刺激装置。",
+          "overseas": "境外",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "108",
+          "index": "108",
+          "name": "Synchron",
+          "region": "美国",
+          "research": "研究植入式设备。",
+          "overseas": "境外",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "109",
+          "index": "109",
+          "name": "中船海洋与防务装备股份有限公司",
+          "region": "广州市",
+          "research": "海洋工程装备建造。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "110",
+          "index": "110",
+          "name": "上海振华重工（集团）股份有限公司",
+          "region": "上海市",
+          "research": "海洋工程装备建造、海工设备配套。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "111",
+          "index": "111",
+          "name": "北京中科海讯数字科技股份有限公司",
+          "region": "北京市",
+          "research": "专注于高性能信号处理平台、声纳系统、仿真系统和大数据应用等产品的研制开发。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "112",
+          "index": "112",
+          "name": "北京海兰信数据科技股份有限公司",
+          "region": "北京市",
+          "research": "海洋信息化系统、海洋自动化观探测设备、海洋工程装备、无人船（艇）制造。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "113",
+          "index": "113",
+          "name": "常熟市国瑞科技股份有限公司",
+          "region": "苏州市",
+          "research": "专业从事船舶及海洋工程电气，自动化设备及其系统集成研发、生产、销售及综合技术服务的高新技术企业。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "114",
+          "index": "114",
+          "name": "西安天和防务技术股份有限公司",
+          "region": "西安市",
+          "research": "已形成“综合电子信息”“先进通信与物联”“智慧海洋”等三大产业体系。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "115",
+          "index": "115",
+          "name": "中海油田服务股份有限公司",
+          "region": "天津市",
+          "research": "钻井服务、海工船舶服务、物探和工程勘察服。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "116",
+          "index": "116",
+          "name": "中国船舶重工集团动力股份有限公司",
+          "region": "涿州市",
+          "research": "国内军用船舶动力系统研发设计、集成制造、设备配套、保障服务等领域均居龙头地位。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "117",
+          "index": "117",
+          "name": "威尔深(大连)海工科技有限公司",
+          "region": "大连市",
+          "research": "海洋科学研究服务；海底工程施工；海洋测绘服务；计算机系统集成等。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "118",
+          "index": "118",
+          "name": "深之蓝海洋科技股份有限公司",
+          "region": "天津市",
+          "research": "海洋仪器、水下设备、实验室仪器设备、海洋监测仪器设备等生产、研发。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "119",
+          "index": "119",
+          "name": "武汉深海弈智科技有限公司",
+          "region": "武汉市",
+          "research": "机器人技术、自动化设备技术、检测设备技术、物流智能化管理系统技术等研发制造。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "120",
+          "index": "120",
+          "name": "山东深海海洋科技有限公司",
+          "region": "烟台市",
+          "research": "海洋环境监测和预警设备；围海造地工程设施、海洋平台设施、人工岛屿设施、人工鱼礁设施的建设。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "121",
+          "index": "121",
+          "name": "北京高泰深海技术有限公司",
+          "region": "北京市",
+          "research": "深海工程技术服务。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "122",
+          "index": "122",
+          "name": "宁波博海深衡科技有限公司",
+          "region": "宁波市",
+          "research": "海洋工程关键配套系统开发；海洋工程装备研发；海洋服务；海洋工程装备销售。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "123",
+          "index": "123",
+          "name": "海底鹰深海科技股份有限公司",
+          "region": "昆明市",
+          "research": "水下系统和作业装备、海洋环境监测与探测装备、潜水救捞装备、导航、测绘、气象及海洋专用仪器的研发、制造和销售。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "124",
+          "index": "124",
+          "name": "诺斯罗普·格鲁曼公司",
+          "region": "美国",
+          "research": "雷达。",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "125",
+          "index": "125",
+          "name": "卡特彼勒公司",
+          "region": "美国",
+          "research": "全球发动机、发电和工程设备巨头。",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "126",
+          "index": "126",
+          "name": "日本株式会社大岛造船所",
+          "region": "日本",
+          "research": "民用造船。",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "127",
+          "index": "127",
+          "name": "今治造船株式会社",
+          "region": "日本",
+          "research": "民用造船。",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "128",
+          "index": "128",
+          "name": "三菱重工业株式会社",
+          "region": "日本",
+          "research": "军用船舶。",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "129",
+          "index": "129",
+          "name": "川崎重工业株式会社",
+          "region": "日本",
+          "research": "军用船舶。",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "130",
+          "index": "130",
+          "name": "烽火通信科技股份有限公司",
+          "region": "武汉市",
+          "research": "国内集光通信领域三大战略技术于一体的科研与产业实体。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "131",
+          "index": "131",
+          "name": "上海诺基亚贝尔股份有限公司",
+          "region": "上海市",
+          "research": "各类信息通信终端和光、电传输网络等研发制造和销售。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "132",
+          "index": "132",
+          "name": "长飞光纤光缆股份有限公司",
+          "region": "武汉市",
+          "research": "全球领先的光纤预制棒、光纤和光缆供应商。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "133",
+          "index": "133",
+          "name": "通鼎互联信息股份有限公司",
+          "region": "苏州市",
+          "research": "光棒、光纤、光缆一体化产品的研发、生产、销售。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "134",
+          "index": "134",
+          "name": "江苏亨通光电股份有限公司",
+          "region": "苏州市",
+          "research": "服务于光纤光网和电力电网及网络建设运营等。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "135",
+          "index": "135",
+          "name": "康宁(海南)光通信有限公司",
+          "region": "海口市",
+          "research": "为细分市场提供光通信解决方案，例如5G网络的室内外部署和超大规模数据中心。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "136",
+          "index": "136",
+          "name": "西安西古光通信有限公司",
+          "region": "西安市",
+          "research": "光纤、光缆、ODN及通信用软电缆产品的研发、生产、销售。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "137",
+          "index": "137",
+          "name": "武汉光迅科技股份有限公司",
+          "region": "武汉市",
+          "research": "主要从事光无源器件、光通信子系统以及光通信仪表的研发、生产、销售。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "138",
+          "index": "138",
+          "name": "森霸传感科技股份有限公司",
+          "region": "南阳市",
+          "research": "主要产品包括热释电红外传感器和可见光传感器。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "139",
+          "index": "139",
+          "name": "北京智谷睿拓技术服务有限公司",
+          "region": "北京市",
+          "research": "研究开发基于可见光通信的数据传输方法。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "140",
+          "index": "140",
+          "name": "陕西源杰半导体科技股份有限公司",
+          "region": "西安市",
+          "research": "主要从事开发可靠性高的光通信激光器。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "141",
+          "index": "141",
+          "name": "苏州长光华芯光电技术股份有限公司",
+          "region": "苏州市",
+          "research": "高功率半导体激光器芯片、高速光通信半导体激光芯片、高效率半导体激光雷达 3D 传感芯片及相关光电器件和应用系统的研发、生产和销售。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "142",
+          "index": "142",
+          "name": "常州纵慧芯光半导体科技有限公司",
+          "region": "常州市",
+          "research": "专注于光通讯专用 VCSEL 芯片、3D 传感专用 VCSEL 芯片的标准品开发。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "143",
+          "index": "143",
+          "name": "BESTOU",
+          "region": "美国",
+          "research": "通信技术研究。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "144",
+          "index": "144",
+          "name": "Casio Computer",
+          "region": "日本",
+          "research": "研发使用屏幕背光进行信号发送、使用摄像头接收光信号的手机，基础器件、水下通信、室外通信。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "145",
+          "index": "145",
+          "name": "Ibsentelecom",
+          "region": "英国",
+          "research": "研究开发红外激光点对点传输技术、室内高速通信。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "146",
+          "index": "146",
+          "name": "KDDI R&D Laboratories",
+          "region": "日本",
+          "research": "可见光产品能实现光电信号转为声波信号。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "147",
+          "index": "147",
+          "name": "Lightpointe Communications",
+          "region": "美国",
+          "research": "基础器件、LED灯具、室内通信、室外高速通信。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "148",
+          "index": "148",
+          "name": "Lsa Inc",
+          "region": "美国",
+          "research": "Free-Space Optics系统能提供点对点的可见光通信。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "149",
+          "index": "149",
+          "name": "Nakagawa Laboratories",
+          "region": "日本",
+          "research": "基础器件、水下通信、室外通信。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "150",
+          "index": "150",
+          "name": "Oledcomm",
+          "region": "法国",
+          "research": "提供可见光通信技术，组件包括传输、接收等设备。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "151",
+          "index": "151",
+          "name": "Vlncomm",
+          "region": "美国",
+          "research": "基础器件、LED灯具、室内通信、室外高速通信。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "152",
+          "index": "152",
+          "name": "东洋机电",
+          "region": "日本",
+          "research": "水下通信装置、基础器件、水下通信、室外通信的研发。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "153",
+          "index": "153",
+          "name": "Bytelight ",
+          "region": "美国",
+          "research": "应用于超市及商场等室内定位，结合智能设备进行人与物之间更快的信息定位。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "154",
+          "index": "154",
+          "name": "Siemens",
+          "region": "德国",
+          "research": "研究室内多点传输的可见光通信系统。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "155",
+          "index": "155",
+          "name": "Pure LiFi",
+          "region": "英国",
+          "research": "基于光线的LiFi传输技术已经实现量产。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "156",
+          "index": "156",
+          "name": "泰科",
+          "region": "瑞士",
+          "research": "热电堆红外传感器主要供应商。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "157",
+          "index": "157",
+          "name": "国仪量子",
+          "region": "中国安徽",
+          "research": "扫描电镜、NV色心、电子顺磁共振谱仪等。",
+          "overseas": "境内",
+          "industry": "量子信息"
+        },
+        {
+          "key": "158",
+          "index": "158",
+          "name": "科大国盾量子技术股份有限公司",
+          "region": "中国安徽",
+          "research": "量子保密通信、量子计算领域产品的研发、生产、销售。",
+          "overseas": "境内",
+          "industry": "量子信息"
+        },
+        {
+          "key": "159",
+          "index": "159",
+          "name": "安徽问天量子科技股份有限公司",
+          "region": "中国安徽",
+          "research": "量子密码通信终端设备、量子信息安全系统研发。",
+          "overseas": "境内",
+          "industry": "量子信息"
+        },
+        {
+          "key": "160",
+          "index": "160",
+          "name": "Google",
+          "region": "美国",
+          "research": "超导量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "161",
+          "index": "161",
+          "name": "Intel",
+          "region": "美国",
+          "research": "硅基量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "162",
+          "index": "162",
+          "name": "IBM",
+          "region": "美国",
+          "research": "超导量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "163",
+          "index": "163",
+          "name": "D-Wave systems",
+          "region": "加拿大",
+          "research": "超导量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "164",
+          "index": "164",
+          "name": "Honeywell",
+          "region": "美国",
+          "research": "离子阱量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "165",
+          "index": "165",
+          "name": "Microsoft",
+          "region": "美国",
+          "research": "拓扑量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "166",
+          "index": "166",
+          "name": "Silicon quantum computing",
+          "region": "澳大利亚",
+          "research": "硅基量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "167",
+          "index": "167",
+          "name": "PsiQuantum",
+          "region": "美国",
+          "research": "光量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "168",
+          "index": "168",
+          "name": "Muquans",
+          "region": "法国",
+          "research": "量子重力仪、频率基准。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "169",
+          "index": "169",
+          "name": "iXblue",
+          "region": "德国",
+          "research": "原子重力仪、加速度计、定位导航、成像。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "170",
+          "index": "170",
+          "name": "M Squared",
+          "region": "英国",
+          "research": "原子重力仪、加速度计、光钟、激光器。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "171",
+          "index": "171",
+          "name": "ColdQuanta",
+          "region": "美国",
+          "research": "真空腔、冷原子系统。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "172",
+          "index": "172",
+          "name": "Qnami",
+          "region": "瑞士",
+          "research": "量子扫描显微镜。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "173",
+          "index": "173",
+          "name": "Quantum Xchange",
+          "region": "美国",
+          "research": "量子安全加密。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "174",
+          "index": "174",
+          "name": "QuintessenceLabs",
+          "region": "澳大利亚",
+          "research": "量子安全数据保护、量子随机数产生器、量子密钥分发管理。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "175",
+          "index": "175",
+          "name": "Toshiba",
+          "region": "日本",
+          "research": "量子密钥分发，量子通信网络建设。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "176",
+          "index": "176",
+          "name": "KETS Quantum ",
+          "region": "英国",
+          "research": "量子安全解决方案，基于芯片的量子安全解决方案。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "177",
+          "index": "177",
+          "name": "SK Telecom",
+          "region": "韩国",
+          "research": "量子通信系统与量子通信网络。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "178",
+          "index": "178",
+          "name": "Nokia",
+          "region": "芬兰",
+          "research": "量子安全的光传输解决方案。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        }
+      ]
+    },
+    {
+      "type": "科研机构",
+      "data": [
+        {
+          "key": "1",
+          "index": "1",
+          "name": "天津大学合成生物学前沿科学中心",
+          "region": "天津市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "2",
+          "index": "2",
+          "name": "中国科学院分子植物科学卓越创新中心",
+          "region": "上海市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "3",
+          "index": "3",
+          "name": "中国科学院天津工业生物技术所",
+          "region": "天津市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "4",
+          "index": "4",
+          "name": "中国科学院微生物研究所",
+          "region": "北京市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "5",
+          "index": "5",
+          "name": "北京大学前沿交叉学科研究院定量生物学中心",
+          "region": "北京市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "6",
+          "index": "6",
+          "name": "清华合成与系统生物学中心",
+          "region": "北京市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "7",
+          "index": "7",
+          "name": "中国科学院武汉病毒研究所",
+          "region": "武汉市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "8",
+          "index": "8",
+          "name": "上海交通大学生命科学技术学院",
+          "region": "上海市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "9",
+          "index": "9",
+          "name": "山东省合成生物技术创新中心",
+          "region": "青岛市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "10",
+          "index": "10",
+          "name": "麻省理工学院合成生物学中心",
+          "region": "美国",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "11",
+          "index": "11",
+          "name": "加州大学伯克利分校合成生物学工程研究中心",
+          "region": "美国",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "12",
+          "index": "12",
+          "name": "伊利诺伊大学香槟分校工程学院生物工程系",
+          "region": "美国",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "13",
+          "index": "13",
+          "name": "哈佛大学Wyss研究所",
+          "region": "美国",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "14",
+          "index": "14",
+          "name": "博德（Broad）研究所",
+          "region": "美国",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "15",
+          "index": "15",
+          "name": "爱丁堡大学工程学院系统与合成生物学中心",
+          "region": "英国",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "16",
+          "index": "16",
+          "name": "帝国理工学院合成生物学中心",
+          "region": "英国",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "17",
+          "index": "17",
+          "name": "神户大学工程生物研究中心 ",
+          "region": "日本",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "18",
+          "index": "18",
+          "name": "新加坡国立大学合成生物学临床和技术创新中心 ",
+          "region": "新加坡",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "19",
+          "index": "19",
+          "name": "韩国科学技术院",
+          "region": "韩国",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "20",
+          "index": "20",
+          "name": "央行数字货币研究所 ",
+          "region": "北京市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "21",
+          "index": "21",
+          "name": "蚂蚁金服技术实验室",
+          "region": "杭州市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "22",
+          "index": "22",
+          "name": "蓝石区块链实验室 ",
+          "region": "北京市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "23",
+          "index": "23",
+          "name": "布比区块链实验室 ",
+          "region": "广州市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "24",
+          "index": "24",
+          "name": "苏宁金融区块链实验室 ",
+          "region": "南京市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "25",
+          "index": "25",
+          "name": "上海区块链技术研究中心 ",
+          "region": "上海市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "26",
+          "index": "26",
+          "name": "浙江省之江区块链科技研究院",
+          "region": "杭州市",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "27",
+          "index": "27",
+          "name": "英国区块链数字发展研究所",
+          "region": "英国",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "28",
+          "index": "28",
+          "name": "美国硅谷区块技术研究中心",
+          "region": "美国",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "29",
+          "index": "29",
+          "name": "英国去中心化经济研究所",
+          "region": "英国",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "30",
+          "index": "30",
+          "name": "新加坡南洋理工大学",
+          "region": "新加坡",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "31",
+          "index": "31",
+          "name": "英联邦科学和工业研究组织",
+          "region": "澳大利亚",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "32",
+          "index": "32",
+          "name": "德克萨斯大学",
+          "region": "美国",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "33",
+          "index": "33",
+          "name": "北京大学",
+          "region": "北京市",
+          "research": "人类疾病基因组学，收集各种重要疾病的血液和组织标本，建立大规模的疾病基因样本库和标准化组织标本库。",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "34",
+          "index": "34",
+          "name": "清华大学",
+          "region": "北京市",
+          "research": "主要进行与免疫应答及免疫疾病相关的前沿研究。",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "35",
+          "index": "35",
+          "name": "中国科学技术大学",
+          "region": "北京市",
+          "research": "研究表观遗传调控的分子机理与细胞命运决定等。",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "36",
+          "index": "36",
+          "name": "国际水稻研究所",
+          "region": "菲律宾",
+          "research": "农学、生命科学。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "37",
+          "index": "37",
+          "name": "马克斯-普朗克植物育种研究所",
+          "region": "德国",
+          "research": "农学、生命科学。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "38",
+          "index": "38",
+          "name": "法国农业科学院",
+          "region": "法国",
+          "research": "农学、生命科学。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "39",
+          "index": "39",
+          "name": "CSIC 西班牙高等科学研究委员会",
+          "region": "西班牙",
+          "research": "农学、生命科学。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "40",
+          "index": "40",
+          "name": "约翰·英纳斯中心",
+          "region": "英国",
+          "research": "农学、生命科学。",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "41",
+          "index": "41",
+          "name": "航天空气动力技术研究院",
+          "region": "北京市",
+          "research": "701所，优势领域为空气动力。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "42",
+          "index": "42",
+          "name": "第一飞机设计研究院",
+          "region": "西安市",
+          "research": "歼击轰炸机、民用飞机、运输机和特种飞机设计研究院。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "43",
+          "index": "43",
+          "name": "中国航天电子基础技术研究院",
+          "region": "北京市",
+          "research": "生产电子元器件、电子设备、专用计算机及计算机测控系统。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "44",
+          "index": "44",
+          "name": "航天化学动力技术研究院",
+          "region": "西安市",
+          "research": "固体火箭发动机研究、设计、试制、生产和各种试验。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "45",
+          "index": "45",
+          "name": "成都飞机设计研究所",
+          "region": "成都市",
+          "research": "代表性产品为歼7战斗机、枭龙FC-1。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "46",
+          "index": "46",
+          "name": "中国空间技术研究院",
+          "region": "北京市",
+          "research": "下设12个研究所、2个工厂。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "47",
+          "index": "47",
+          "name": "上海航天技术研究院",
+          "region": "上海市",
+          "research": "下属16个研究所、13家工厂、10家公司和1家上市公司。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "48",
+          "index": "48",
+          "name": "北京航空航天大学",
+          "region": "北京市",
+          "research": "“世界一流大学”A类建设高校，有7个学科都入选了“世界一流学科”建设名单，包括航空宇航科学与技术、软件工程等。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "49",
+          "index": "49",
+          "name": "北京航天时代仪器公司",
+          "region": "北京市",
+          "research": "从事各类导航仪器、制导设备、惯性系统与仪表、光电产品、电机电器、精密仪器仪表以及计算机软硬件产品与技术的开发、制造与销售业务。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "50",
+          "index": "50",
+          "name": "沈阳飞机设计研究所",
+          "region": "沈阳市",
+          "research": "代表性产品为中国歼-8战斗机、歼7战斗机、歼八Ⅱ、歼-31。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "51",
+          "index": "51",
+          "name": "中国直升机设计研究所",
+          "region": "天津市",
+          "research": "我国唯一的以直升机型号研制和直升机技术预先研究为使命的大型综合研究机构。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "52",
+          "index": "52",
+          "name": "中国海鹰机电技术研究院",
+          "region": "北京市",
+          "research": "主要从事岸舰飞航导弹研究 。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "53",
+          "index": "53",
+          "name": "中国空空导弹研究院",
+          "region": "洛阳市",
+          "research": "专业从事空空导弹、发射装置研制开发及批量生产。",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "54",
+          "index": "54",
+          "name": "加州理工学院",
+          "region": "美国",
+          "research": "工程与应用科学学院的航空航天专业，包含流体、固体、生物系统和宇宙空间等研究领域。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "55",
+          "index": "55",
+          "name": "麻省理工学院",
+          "region": "美国",
+          "research": "学院的航空航天系目前研究的范围主要包括喷气式飞行器、固定翼和旋翼飞机、火箭及外太空飞行器以及飞行器赖以运行的信息和导航系统。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "56",
+          "index": "56",
+          "name": "斯坦福大学",
+          "region": "美国",
+          "research": "包括航空航天计算、联合创新制造、制导与控制、航空航天设计、集成气流模拟、航空流体力学、流体物理与计算、网络系统与控制、航空航天机器人技术、全球定位系统研究、空间系统发展、飞行器空气动力学研究与设计等。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "57",
+          "index": "57",
+          "name": "乔治亚理工学院",
+          "region": "美国",
+          "research": "研究领域包括空气动力学、气体动力学、空气弹性力学、航天动力学、计算流体动力学、飞行力学、航空声学、复合材料、飞行控制、旋翼飞机技术、设计优化和计算机辅助设计等。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "58",
+          "index": "58",
+          "name": "普林斯顿大学",
+          "region": "美国",
+          "research": "主要研究领域包括燃烧与能量转化、计算工程、动力与控制系统、流体力学、激光与应用物理、材料与机械系统等。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "59",
+          "index": "59",
+          "name": "加拿大航天局",
+          "region": "加拿大",
+          "research": "共有五部分：航天系统、航天技术、航天科学、加拿大宇航员处和航天运行处。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "60",
+          "index": "60",
+          "name": "印度空间研究组织",
+          "region": "印度",
+          "research": "主要从事与航天和空间科学有关的研究。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "61",
+          "index": "61",
+          "name": "意大利航天局",
+          "region": "意大利",
+          "research": "负责意大利国家级航太计划的草拟和确保能够执行。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "62",
+          "index": "62",
+          "name": "德国航空航天中心",
+          "region": "德国",
+          "research": "主要任务是地球与太阳系探索，以及开发保护环境的科技、通讯、交通运输与能源。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "63",
+          "index": "63",
+          "name": "法国空间研究中心",
+          "region": "法国",
+          "research": "负责制定和实施所有的法国航天计划的国家机构。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "64",
+          "index": "64",
+          "name": "日本宇宙航空研究开发机构",
+          "region": "日本",
+          "research": "开发过火箭和卫星，制作了国际空间站的日本太空实验室。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "65",
+          "index": "65",
+          "name": "欧洲空间局",
+          "region": "法国巴黎",
+          "research": "负责阿丽亚娜4号和阿丽亚娜5号火箭运载火箭的研制与开发。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "66",
+          "index": "66",
+          "name": "俄罗斯联邦航天局",
+          "region": "俄罗斯",
+          "research": "负责俄罗斯的太空计划，并且承继前苏联的太空计划。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "67",
+          "index": "67",
+          "name": "美国国家航空航天局",
+          "region": "美国",
+          "research": "负责制定、实施美国的民用太空计划、与开展航空科学暨太空科学的研究。",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "68",
+          "index": "68",
+          "name": "脑科学与智能技术卓越创新中心",
+          "region": "上海生命科学研究院神经科学研究所",
+          "research": "解决脑科学与类脑智能技术两个前沿领域的重大问题。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "69",
+          "index": "69",
+          "name": "神经科学国家重点实验室",
+          "region": "上海生命科学研究院",
+          "research": "神经系统发育、神经信息处理、神经疾病机理。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "70",
+          "index": "70",
+          "name": "模式识别国家重点实验室",
+          "region": "北京自动化研究所",
+          "research": "模式识别、想处理与图形学，自然语言处理等。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "71",
+          "index": "71",
+          "name": "脑与认知科学国家重点实验室",
+          "region": "北京生物物理研究所",
+          "research": "认知基本单元的理论框架，认知的分子神经机制及认知障碍，脑成像，社会信息的认知及神经机制。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "72",
+          "index": "72",
+          "name": "脑功能与脑疾病重点实验室",
+          "region": "中国科学技术大学",
+          "research": "感觉系统疾病、神经变性病，情感认知障碍。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "73",
+          "index": "73",
+          "name": "北京师范大学IDG麦戈文脑研究所",
+          "region": "北京师范大学",
+          "research": "聚焦于探索人类脑发育、认知发展和学习的科学规律这一科学前沿，并全力服务我国基础教育质量提升、促进亿万儿童青少年身心健康发展和综合国力提升的重大需求。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "74",
+          "index": "74",
+          "name": "清华大学IDG麦戈文脑研究所",
+          "region": "清华大学",
+          "research": "按照交叉学科的思路，联合医学院、生命学院、计算机系、和纳米中心等的人才与资源，对如何理解大脑、重造大脑、保护大脑进行前沿探索。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "75",
+          "index": "75",
+          "name": "上海陈天桥国际脑疾病研究所",
+          "region": "复旦大学附属华山医院",
+          "research": "脑肿瘤、老年痴呆、帕金森症、抑郁症等的研究和治疗。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "76",
+          "index": "76",
+          "name": "北京脑科学与类脑研究中心",
+          "region": "北京市科学技术委员会",
+          "research": "共性技术平台和资源库建设、认知障碍相关重大疾病、类脑计算与脑机智能、儿童青少年脑智发育、脑认知原理解析五方面开展攻关，实现前沿技术突破。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "77",
+          "index": "77",
+          "name": "理化研究所-脑科学中心",
+          "region": "日本",
+          "research": "克服老年痴呆症等疾病，创造出脑型计算机。",
+          "overseas": "境外",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "78",
+          "index": "78",
+          "name": "哈佛大学神经科学中心",
+          "region": "美国",
+          "research": "研究大脑图谱。",
+          "overseas": "境外",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "79",
+          "index": "79",
+          "name": "先进生物医学成像中心",
+          "region": "英国",
+          "research": "研究大脑成像技术。",
+          "overseas": "境外",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "80",
+          "index": "80",
+          "name": "冷泉港实验室",
+          "region": "美国",
+          "research": "研究神经生物学。",
+          "overseas": "境外",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "81",
+          "index": "81",
+          "name": "弗里德里希-米歇尔生物医学研究所",
+          "region": "瑞士",
+          "research": "研究大脑神经回路。",
+          "overseas": "境外",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "82",
+          "index": "82",
+          "name": "卫星海洋环境动力学国家重点实验室",
+          "region": "青岛市",
+          "research": "研究方向包括：海洋卫星遥感技术与应用、 海洋动力过程与生态环境、 大洋环流与气候变化。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "83",
+          "index": "83",
+          "name": "海南大学",
+          "region": "海口市",
+          "research": "研究方向包括：海洋动力环境与流固耦合作用，陆海水域环境与海岸侵蚀防治，海岸与跨海工程及其防灾减灾，海洋资源开发基础设施工程和海洋工程智慧运维与全寿命安全。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "84",
+          "index": "84",
+          "name": "热带海洋环境国家重点实验室",
+          "region": "广州市",
+          "research": "以南海环流与中小尺度动力过程、热带海洋-大气过程与气候效应、热带海洋动力过程的环境效应为三大基础研究方向。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "85",
+          "index": "85",
+          "name": "厦门大学",
+          "region": "厦门市",
+          "research": "研究方向包括：海洋地球化学过程与通量、海洋生态过程与机制、海洋生态与毒理效应、海洋生态系统观测与整合。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "86",
+          "index": "86",
+          "name": "同济大学",
+          "region": "上海市",
+          "research": "研究方向包括：古海洋学与古环境、 大陆边缘演化与海洋沉积学、 海底资源、 深海生物地球化学和海底过程与观测等。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "87",
+          "index": "87",
+          "name": "华东师范大学",
+          "region": "上海市",
+          "research": "研究方向包括：南海海洋生物资源利用、南海海洋矿物资源新材料利用、南海海洋信息资源化技术。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "88",
+          "index": "88",
+          "name": "青岛海洋科学与技术试点国家实验室",
+          "region": "青岛市",
+          "research": "研究方向包括：海洋动力过程与气候变化、海洋生态环境演变与保护、 海洋生命过程与资源利用、深远海和极地极端环境与战略资源、 海洋技术与装备。",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "89",
+          "index": "89",
+          "name": "俄罗斯P.P.希尔绍夫海洋研究所",
+          "region": "俄罗斯",
+          "research": "在海洋动力学、海洋中物质变化的化学过程、海底构造、海洋生物生产力的控制等研究方向处于国际领先水平。",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "90",
+          "index": "90",
+          "name": "法国海洋开发研究院",
+          "region": "法国",
+          "research": "研究海洋开发技术和应用性海洋科学。",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "91",
+          "index": "91",
+          "name": "美国斯克里普斯海洋学研究所",
+          "region": "美国",
+          "research": "下设海洋地质、海洋生物和大洋 3个研究部，海洋物理、能见度和生理研究 3个实验室。",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "92",
+          "index": "92",
+          "name": "美国伍兹霍尔海洋研究所",
+          "region": "美国",
+          "research": "海洋生物研究。",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "93",
+          "index": "93",
+          "name": "日本海洋科学技术中心",
+          "region": "日本",
+          "research": "下设科技新领域研究部、深海开发研究部、海洋观测、开发与利用研究部、数理分析技术部和信息部等部门。",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "94",
+          "index": "94",
+          "name": "英国国家海洋中心",
+          "region": "英国",
+          "research": "进行从沿海到深海的综合研究和技术开发。",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "95",
+          "index": "95",
+          "name": "清华大学",
+          "region": "北京市",
+          "research": " 主要研究VLC-PLC视频融合系统。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "96",
+          "index": "96",
+          "name": "暨南大学",
+          "region": "广州市",
+          "research": "研究开发白光LED节能灯构筑的无线通信系统。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "97",
+          "index": "97",
+          "name": "南京信息工程大学",
+          "region": "南京市",
+          "research": "研究开发离线高速VLC实验系统。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "98",
+          "index": "98",
+          "name": "东南大学",
+          "region": "南京市",
+          "research": "研究开发实时高速VLC系统 。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "99",
+          "index": "99",
+          "name": "中科院半导体所",
+          "region": "北京市",
+          "research": "研究开发室内可见光通信网络。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "100",
+          "index": "100",
+          "name": "北京大学",
+          "region": "北京市",
+          "research": "研究开发可见光室内双向传输。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "101",
+          "index": "101",
+          "name": "复旦大学",
+          "region": "上海市",
+          "research": "研究开发屋内可见光传输网络。",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "102",
+          "index": "102",
+          "name": "爱丁堡大学",
+          "region": "英国",
+          "research": "Lifi可见光通信技术产品化研究。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "103",
+          "index": "103",
+          "name": "日本可见光通信联盟",
+          "region": "日本",
+          "research": "旨在通过研究、推广和技术标准化，建立安全、无处不在的可见光通信网络。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "104",
+          "index": "104",
+          "name": "弗劳恩霍夫协会",
+          "region": "德国",
+          "research": "采用大功率荧光型和大功率三基色光型LED研究可见光通信。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "105",
+          "index": "105",
+          "name": "近畿大学",
+          "region": "日本",
+          "research": "研究可见光光催化剂。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "106",
+          "index": "106",
+          "name": "廷德尔国家研究所",
+          "region": "爱尔兰",
+          "research": "研究能够使量子点发光二极管产生纠缠光子的新方法。",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "107",
+          "index": "107",
+          "name": "中国科学技术大学",
+          "region": "中国",
+          "research": "多种量子计算及量子通信。",
+          "overseas": "境内",
+          "industry": "量子信息"
+        },
+        {
+          "key": "108",
+          "index": "108",
+          "name": "中科院精密测量研究院",
+          "region": "中国湖北",
+          "research": "原子重力仪、原子钟。",
+          "overseas": "境内",
+          "industry": "量子信息"
+        },
+        {
+          "key": "109",
+          "index": "109",
+          "name": "清华大学",
+          "region": "北京市",
+          "research": "量子通信理论与实验。",
+          "overseas": "境内",
+          "industry": "量子信息"
+        },
+        {
+          "key": "110",
+          "index": "110",
+          "name": "牛津大学",
+          "region": "英国",
+          "research": "光量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "111",
+          "index": "111",
+          "name": "马里兰大学联合量子研究所",
+          "region": "美国",
+          "research": "多种量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "112",
+          "index": "112",
+          "name": "澳洲量子计算与通信技术中心",
+          "region": "澳大利亚",
+          "research": "多种量子计算及量子通信。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "113",
+          "index": "113",
+          "name": "QuTech",
+          "region": "荷兰",
+          "research": "量子计算及量子通信。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "114",
+          "index": "114",
+          "name": "量子计算研究所—滑铁卢大学",
+          "region": "加拿大",
+          "research": "量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "115",
+          "index": "115",
+          "name": "Q-NEXT ",
+          "region": "美国",
+          "research": "量子科技。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "116",
+          "index": "116",
+          "name": "美国国家标准与技术研究院",
+          "region": "美国",
+          "research": "量子技术、量子精密测量各个方向。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "117",
+          "index": "117",
+          "name": "麻省理工学院",
+          "region": "美国",
+          "research": "量子时频同步、量子导航。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "118",
+          "index": "118",
+          "name": "德国斯图加特大学",
+          "region": "德国",
+          "research": "原子磁力仪、原子钟。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "119",
+          "index": "119",
+          "name": "RIKEN日本理化所",
+          "region": "日本",
+          "research": "时频系统、光钟。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "120",
+          "index": "120",
+          "name": "Sandia国家实验室",
+          "region": "美国",
+          "research": "原子磁力仪。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "121",
+          "index": "121",
+          "name": "东芝剑桥研究实验室",
+          "region": "日本",
+          "research": "量子通信、量子计算、量子精密测量。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        }
+      ]
+    },
+    {
+      "type": "人才",
+      "data": [
+        {
+          "key": "1",
+          "index": "1",
+          "name": "施一公",
+          "region": "清华大学",
+          "research": "生物化学、生物物理学。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "2",
+          "index": "2",
+          "name": "欧阳颀",
+          "region": "北京大学",
+          "research": "定量系统生物学、生物网络动力学。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "3",
+          "index": "3",
+          "name": "元英进",
+          "region": "天津大学化工学院",
+          "research": "合成生物学、系统生物学。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "4",
+          "index": "4",
+          "name": "马延和 ",
+          "region": "中国科学院微生物研究所",
+          "research": "极端微生物。",
+          "overseas": "境内",
+          "industry": "合成生物"
+        },
+        {
+          "key": "5",
+          "index": "5",
+          "name": "Tom Ellis ",
+          "region": "帝国理工学院",
+          "research": "生物化学、分子生物",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "6",
+          "index": "6",
+          "name": "Timothy K. Lu",
+          "region": "麻省理工学院",
+          "research": "合成生物学",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "7",
+          "index": "7",
+          "name": "Christopher A. Voigt",
+          "region": "麻省理工学院",
+          "research": "合成生物学、分子生物物理学",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "8",
+          "index": "8",
+          "name": "James J. Collins",
+          "region": "麻省理工学院",
+          "research": "生物工程",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "9",
+          "index": "9",
+          "name": "David Liu",
+          "region": "哈佛大学生物化学系",
+          "research": "基因组学、合成生物学",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "10",
+          "index": "10",
+          "name": "Jennifer Doudna",
+          "region": "加州大学伯克利分校",
+          "research": "基因工程",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "11",
+          "index": "11",
+          "name": "赵惠民",
+          "region": "伊利诺伊大学香槟分校",
+          "research": "合成生物学、天然产物生物合成、蛋白质工程",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "12",
+          "index": "12",
+          "name": "游凌冲",
+          "region": "杜克大学",
+          "research": "基因线路，工程编辑",
+          "overseas": "境外",
+          "industry": "合成生物"
+        },
+        {
+          "key": "13",
+          "index": "13",
+          "name": "姚期智",
+          "region": "清华大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "14",
+          "index": "14",
+          "name": "李爱珍",
+          "region": "中国科学院",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "15",
+          "index": "15",
+          "name": "周志华",
+          "region": "南京大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "16",
+          "index": "16",
+          "name": "朱文武",
+          "region": "清华大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "17",
+          "index": "17",
+          "name": "李伟",
+          "region": "北京航天航空大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "18",
+          "index": "18",
+          "name": "梅宏",
+          "region": "北京理工大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "19",
+          "index": "19",
+          "name": "胡振江",
+          "region": "北京大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "20",
+          "index": "20",
+          "name": "蒋田仔",
+          "region": "中国科学院",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "21",
+          "index": "21",
+          "name": "张大庆",
+          "region": "北京大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "22",
+          "index": "22",
+          "name": "邓小铁",
+          "region": "北京大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "23",
+          "index": "23",
+          "name": "过敏意",
+          "region": "上海交通大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "24",
+          "index": "24",
+          "name": "孙茂松",
+          "region": "清华大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "25",
+          "index": "25",
+          "name": "吴建平",
+          "region": "清华大学计算机系",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "26",
+          "index": "26",
+          "name": "李颉",
+          "region": "上海交通大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "区块链"
+        },
+        {
+          "key": "27",
+          "index": "27",
+          "name": "施敏",
+          "region": "台湾交通大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "28",
+          "index": "28",
+          "name": "胡正明",
+          "region": "加州大学伯克利分校",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "29",
+          "index": "29",
+          "name": "刘必治",
+          "region": "普林斯顿大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "30",
+          "index": "30",
+          "name": "马佐平",
+          "region": "耶鲁大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "31",
+          "index": "31",
+          "name": "李凯",
+          "region": "普林斯顿大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "32",
+          "index": "32",
+          "name": "丛京生",
+          "region": "加州大学洛杉矶分校",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "33",
+          "index": "33",
+          "name": "Max Wong",
+          "region": "麦克马斯特大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "34",
+          "index": "34",
+          "name": "En-hui Yang",
+          "region": "滑铁卢大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "35",
+          "index": "35",
+          "name": "曹建农",
+          "region": "香港理工大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "36",
+          "index": "36",
+          "name": "Ching",
+          "region": "香港大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "37",
+          "index": "37",
+          "name": "郭毅可",
+          "region": "帝国理工学院",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "38",
+          "index": "38",
+          "name": "任福继",
+          "region": "日本国立德岛大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "区块链"
+        },
+        {
+          "key": "39",
+          "index": "39",
+          "name": "陈竺",
+          "region": "上海交通大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "40",
+          "index": "40",
+          "name": "张启发",
+          "region": "华中农业大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "41",
+          "index": "41",
+          "name": "李家洋",
+          "region": "中国科学院遗传与发育生物学研究所",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "42",
+          "index": "42",
+          "name": "蒲慕明",
+          "region": "中国科学院",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "43",
+          "index": "43",
+          "name": "高福",
+          "region": "中国疾病预防控制中心",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "44",
+          "index": "44",
+          "name": "曹晓风",
+          "region": "中国科学院遗传与发育生物学研究所",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "45",
+          "index": "45",
+          "name": "付小兵",
+          "region": "解放军总医院生命科学院",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "46",
+          "index": "46",
+          "name": "樊代明",
+          "region": "中国工程",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "47",
+          "index": "47",
+          "name": "曹雪涛",
+          "region": "南开大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "48",
+          "index": "48",
+          "name": "杨运桂",
+          "region": "中国科学院北京基因组研究所",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "49",
+          "index": "49",
+          "name": "裴钢",
+          "region": "同济大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "50",
+          "index": "50",
+          "name": "钱永佑",
+          "region": "斯坦福大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "51",
+          "index": "51",
+          "name": "吴皓",
+          "region": "哈佛大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "52",
+          "index": "52",
+          "name": "袁钧瑛",
+          "region": "哈佛大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "53",
+          "index": "53",
+          "name": "林海帆",
+          "region": "耶鲁大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "54",
+          "index": "54",
+          "name": "Howard Chang",
+          "region": "斯坦福大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "55",
+          "index": "55",
+          "name": "戴宏杰",
+          "region": "斯坦福大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "56",
+          "index": "56",
+          "name": "刘如谦",
+          "region": "霍华德·休斯医学研究所",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "57",
+          "index": "57",
+          "name": "宋红军",
+          "region": "约翰霍普金斯大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "58",
+          "index": "58",
+          "name": "徐立之",
+          "region": "香港大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "59",
+          "index": "59",
+          "name": "Victor Ling",
+          "region": "不列颠哥伦比亚大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "细胞与基因（含生物育种）"
+        },
+        {
+          "key": "60",
+          "index": "60",
+          "name": "杨振宁",
+          "region": "清华大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "61",
+          "index": "61",
+          "name": "周光召",
+          "region": "中国科学技术协会",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "62",
+          "index": "62",
+          "name": "张杰",
+          "region": "上海交通大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "63",
+          "index": "63",
+          "name": "吴耀祖",
+          "region": "上海交通大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "64",
+          "index": "64",
+          "name": "鲍亦兴",
+          "region": "南京大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "65",
+          "index": "65",
+          "name": "徐匡迪",
+          "region": "中国工程院",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "66",
+          "index": "66",
+          "name": "姚熹",
+          "region": "西安交通大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "67",
+          "index": "67",
+          "name": "江雷",
+          "region": "中国工程院",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "68",
+          "index": "68",
+          "name": "冷劲松",
+          "region": "哈尔滨工程大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "69",
+          "index": "69",
+          "name": "孟杰",
+          "region": "北京大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "70",
+          "index": "70",
+          "name": "顾秉林",
+          "region": "清华大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "71",
+          "index": "71",
+          "name": "程耿东",
+          "region": "大连理工大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "72",
+          "index": "72",
+          "name": "王贻芳",
+          "region": "中国科学院高能物理研究所",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "73",
+          "index": "73",
+          "name": "荣毅超",
+          "region": "中国空空导弹研究院",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "空天技术"
+        },
+        {
+          "key": "74",
+          "index": "74",
+          "name": "李政道",
+          "region": "哥伦比亚大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "75",
+          "index": "75",
+          "name": "丁肇中",
+          "region": "麻省理工学院",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "76",
+          "index": "76",
+          "name": "崔琦",
+          "region": "普林斯顿大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "77",
+          "index": "77",
+          "name": "徐遐生",
+          "region": "加州大学圣地亚哥分校",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "78",
+          "index": "78",
+          "name": "Lee-Lueng Fu",
+          "region": "加州理工大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "79",
+          "index": "79",
+          "name": "Chuanzeng",
+          "region": "德国锡根大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "80",
+          "index": "80",
+          "name": "高锟",
+          "region": "香港中文大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "81",
+          "index": "81",
+          "name": "Joseph",
+          "region": "香港科技大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "82",
+          "index": "82",
+          "name": "罗开红",
+          "region": "伦敦大学学院",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "83",
+          "index": "83",
+          "name": "陈强",
+          "region": "日本东北大学教授",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "空天技术"
+        },
+        {
+          "key": "84",
+          "index": "84",
+          "name": "张旭",
+          "region": "中国科学院上海高等研究院",
+          "research": "神经系统疾病的分子细胞生物学机理。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "85",
+          "index": "85",
+          "name": "段树民",
+          "region": "浙江大学",
+          "research": "情绪与情感的神经机制。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "86",
+          "index": "86",
+          "name": "程和平",
+          "region": "北京大学",
+          "research": "超高时空分辨微型化双光子在体显微成像、神经信号检测。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "87",
+          "index": "87",
+          "name": "徐涛",
+          "region": "中科院生物物理所",
+          "research": "生物物理学、神经突触结构与功能。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "88",
+          "index": "88",
+          "name": "骆清铭",
+          "region": "海南大学",
+          "research": "神经环路的结构功能。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "89",
+          "index": "89",
+          "name": "陈霖",
+          "region": "中科院生物物理所",
+          "research": "认知科学与实验心理学。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "90",
+          "index": "90",
+          "name": "罗敏敏",
+          "region": "北京生命科学研究所",
+          "research": "本能行为的神经环路机制。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "91",
+          "index": "91",
+          "name": "张建民",
+          "region": "浙江大学第二附属医院",
+          "research": "脑机接口。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "92",
+          "index": "92",
+          "name": "蒋田仔",
+          "region": "中科院自动化所",
+          "research": "计算机视觉。",
+          "overseas": "境内",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "93",
+          "index": "93",
+          "name": "Erwin Neher",
+          "region": "德国马普生物物理化学研究所",
+          "research": "神经突触与脑疾病。",
+          "overseas": "境外",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "94",
+          "index": "94",
+          "name": "Helmut Kettenmann",
+          "region": "德国马克斯-德布吕克分子医学中心",
+          "research": "胶质细胞功能与脑疾病。",
+          "overseas": "境外",
+          "industry": "脑科学与类脑智能"
+        },
+        {
+          "key": "95",
+          "index": "95",
+          "name": "安芷生",
+          "region": "中国科学院",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "96",
+          "index": "96",
+          "name": "张兴栋",
+          "region": "四川大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "97",
+          "index": "97",
+          "name": "张涛",
+          "region": "中国科学院",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "98",
+          "index": "98",
+          "name": "成秋明",
+          "region": "中国地质大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "99",
+          "index": "99",
+          "name": "宫鹏",
+          "region": "清华大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "100",
+          "index": "100",
+          "name": "吴季松",
+          "region": "北京航空航天大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "101",
+          "index": "101",
+          "name": "谢先德",
+          "region": "中国科学院",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "102",
+          "index": "102",
+          "name": "郭华东",
+          "region": "中国科学院",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "103",
+          "index": "103",
+          "name": "吴淦国",
+          "region": "中国地质大学（北京）",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "104",
+          "index": "104",
+          "name": "张以河",
+          "region": "中国地质大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "深地深海"
+        },
+        {
+          "key": "105",
+          "index": "105",
+          "name": "冯又嫦",
+          "region": "加州大学伯克利分校",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "106",
+          "index": "106",
+          "name": "林伯中",
+          "region": "加州大学伯克利分校",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "107",
+          "index": "107",
+          "name": "王兆凯",
+          "region": "夏威夷大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "108",
+          "index": "108",
+          "name": "俞久平",
+          "region": "麻省理工学院",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "109",
+          "index": "109",
+          "name": "Chi-Shing Wong",
+          "region": "不列颠哥伦比亚大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "110",
+          "index": "110",
+          "name": "Jing Chen",
+          "region": "多伦多大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "111",
+          "index": "111",
+          "name": "陈掌星",
+          "region": "卡尔加里大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "112",
+          "index": "112",
+          "name": "彭定宇",
+          "region": "萨斯喀彻温大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "113",
+          "index": "113",
+          "name": "余海岁",
+          "region": "诺丁汉大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "114",
+          "index": "114",
+          "name": "吴宏伟",
+          "region": "香港科技大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "115",
+          "index": "115",
+          "name": "丁玉龙",
+          "region": "伯明翰大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "116",
+          "index": "116",
+          "name": "孟立秋",
+          "region": "慕尼黑理工大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "117",
+          "index": "117",
+          "name": "朱晓香",
+          "region": "德国航空航天中心",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "118",
+          "index": "118",
+          "name": "陈德亮",
+          "region": "哥德堡大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "119",
+          "index": "119",
+          "name": "汪发武",
+          "region": "岛根大学教授",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "深地深海"
+        },
+        {
+          "key": "120",
+          "index": "120",
+          "name": "陆建华",
+          "region": "清华大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "121",
+          "index": "121",
+          "name": "王金龙",
+          "region": "陆军工程大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "122",
+          "index": "122",
+          "name": "邬江兴",
+          "region": "中国工程院",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "123",
+          "index": "123",
+          "name": "宋梁",
+          "region": "复旦大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "124",
+          "index": "124",
+          "name": "饶云江",
+          "region": "电子科技大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "125",
+          "index": "125",
+          "name": "邱昆",
+          "region": "电子科技大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "126",
+          "index": "126",
+          "name": "巫江",
+          "region": "电子科技大学",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "127",
+          "index": "127",
+          "name": "庄巍",
+          "region": "广东省科学院半导体研究所",
+          "research": "/",
+          "overseas": "境内",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "128",
+          "index": "128",
+          "name": "张翔",
+          "region": "香港大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "129",
+          "index": "129",
+          "name": "田炳耕",
+          "region": "贝尔实验室",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "130",
+          "index": "130",
+          "name": "卓以和",
+          "region": "贝尔实验室",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "131",
+          "index": "131",
+          "name": "任咏华",
+          "region": "香港大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "132",
+          "index": "132",
+          "name": "程正迪",
+          "region": "阿克伦大学",
+          "research": "/",
+          "overseas": "境外",
+          "industry": "可见光通信与光计算"
+        },
+        {
+          "key": "133",
+          "index": "133",
+          "name": "潘建伟",
+          "region": "中国科学技术大学",
+          "research": "量子计算和量子信息。",
+          "overseas": "境内",
+          "industry": "量子信息"
+        },
+        {
+          "key": "134",
+          "index": "134",
+          "name": "杜江峰",
+          "region": "中国科学技术大学",
+          "research": "NV色心、核磁共振。",
+          "overseas": "境内",
+          "industry": "量子信息"
+        },
+        {
+          "key": "135",
+          "index": "135",
+          "name": "罗俊",
+          "region": "中山大学",
+          "research": "引力波、引力常数测量。",
+          "overseas": "境内",
+          "industry": "量子信息"
+        },
+        {
+          "key": "136",
+          "index": "136",
+          "name": "王向斌",
+          "region": "清华大学",
+          "research": "量子通信安全理论。",
+          "overseas": "境内",
+          "industry": "量子信息"
+        },
+        {
+          "key": "137",
+          "index": "137",
+          "name": "郭光灿",
+          "region": "中国科学技术大学",
+          "research": "量子通信理论与实验。",
+          "overseas": "境内",
+          "industry": "量子信息"
+        },
+        {
+          "key": "138",
+          "index": "138",
+          "name": "Christopher Monroe",
+          "region": "马里兰大学",
+          "research": "离子阱量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "139",
+          "index": "139",
+          "name": "John Preskill",
+          "region": "加州理工学院",
+          "research": "量子计算理论。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "140",
+          "index": "140",
+          "name": "Alexei Kitaev",
+          "region": "加州理工学院",
+          "research": "拓扑量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "141",
+          "index": "141",
+          "name": "Robert J. Schoelkopf",
+          "region": "耶鲁大学",
+          "research": "超导量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "142",
+          "index": "142",
+          "name": "Michelle Simmons",
+          "region": "悉尼大学",
+          "research": "硅基量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "143",
+          "index": "143",
+          "name": "Lieven Vandersypen",
+          "region": "代尔夫特量子研究中心",
+          "research": "硅基量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "144",
+          "index": "144",
+          "name": "Rainer Blatt",
+          "region": "因斯布鲁克大学",
+          "research": "离子阱量子计算。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "145",
+          "index": "145",
+          "name": "Christian Degen",
+          "region": "苏黎世联邦理工学院",
+          "research": "量子传感。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "146",
+          "index": "146",
+          "name": "P. Cappellaro",
+          "region": "麻省理工学院",
+          "research": "原子磁力计。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "147",
+          "index": "147",
+          "name": "Carlton Caves",
+          "region": "新墨西哥大学",
+          "research": "量子计量和量子信息理论。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "148",
+          "index": "148",
+          "name": "Hidetoshi Katori",
+          "region": "东京大学",
+          "research": "光钟。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "149",
+          "index": "149",
+          "name": "Dmitry Budker",
+          "region": "加州大学伯克利分校",
+          "research": "原子磁力仪。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "150",
+          "index": "150",
+          "name": "Paolo Villoresi",
+          "region": "帕多瓦大学",
+          "research": "自由空间量子通信。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "151",
+          "index": "151",
+          "name": "Andrew J. Shields",
+          "region": "东芝剑桥研究院",
+          "research": "量子通信理论与实验。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "152",
+          "index": "152",
+          "name": "Hoi-Kwong Lo",
+          "region": "多伦多大学",
+          "research": "量子通信安全性理论。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        },
+        {
+          "key": "153",
+          "index": "153",
+          "name": "Charles Lim",
+          "region": "新加坡国立大学",
+          "research": "量子通信理论与实验研究。",
+          "overseas": "境外",
+          "industry": "量子信息"
+        }
+      ]
+    }
+  ]
+}

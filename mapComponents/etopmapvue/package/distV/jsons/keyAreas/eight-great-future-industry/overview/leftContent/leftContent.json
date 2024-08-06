@@ -1,0 +1,217 @@
+{
+  "retCode":0,
+  "data":{
+      "results":[
+          {
+              "unit":"亿元",
+              "name":"2021 项目投资额",
+              "dialogTitle": "项目投资额分析",
+              "num":"***",
+              "imageUrl":"/images/key-areas/touzie.png",
+              "dialogInfo": [
+                {
+                  "src": "/icons/key-areas/newEra/icon-invest.png",
+                  "desc": "项目总投资",
+                  "num": "1,578.12",
+                  "unit": "亿元"
+                },
+                {
+                  "src": "/icons/key-areas/newEra/icon-invest.png",
+                  "desc": "2021 投资总额",
+                  "num": "1,578.12",
+                  "unit": "亿元"
+                },
+                {
+                  "src": "/icons/key-areas/newEra/icon-invest.png",
+                  "desc": "“十四五”项目投资预算",
+                  "num": "1,613.39",
+                  "unit": "亿元"
+                }
+              ],
+              "dialogRadio": [
+                { "id": 0, "name": "按产业排行", "value": 1 },
+                { "id": 1, "name": "按行政区排行", "value": 2 },
+                { "id": 2, "name": "按核心承载区排行", "value": 3 }
+              ]
+          },
+          {
+              "unit":"亿元",
+              "name":"2021 产业总值",
+              "dialogTitle": "项目投资额分析",
+              "num":"***",
+              "imageUrl":"/images/key-areas/icon-guanghuankeji.png"
+              
+          },
+          {
+              "unit":"个",
+              "name":"2020 专利数量",
+              "dialogTitle": "专利分析",
+              "num":"33347",
+              "imageUrl":"/images/key-areas/zhuanli.png",
+              "dialogInfo": [
+                {
+                  "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+                  "desc": "2020 专利数量",
+                  "num": "33,349",
+                  "unit": "个"
+                },
+                {
+                  "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+                  "desc": "2020 国内发明专利授权量",
+                  "num": "15,789",
+                  "unit": "个"
+                },
+                {
+                  "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+                  "desc": "2020 PCT 国际专利申请量",
+                  "num": "17,560",
+                  "unit": "个"
+                }
+              ],
+              "dialogRadio": [
+                { "id": 0, "name": "按产业排行", "value": 1 },
+                { "id": 1, "name": "按行政区排行", "value": 2 },
+                { "id": 2, "name": "按核心承载区排行", "value": 3 }
+              ]
+          },
+          {
+              "unit":"个",
+              "name":"科技创新体系",
+              "dialogTitle": "科技创新体系分析",
+              "num":"174",
+              "imageUrl":"/images/key-areas/kejichaungxin.png"
+          },
+          {
+              "unit":"个",
+              "name":"重点企业",
+              "dialogTitle": "重点企业分析",
+              "num":"111",
+              "imageUrl":"/images/key-areas/zhongdianqiye.png",
+              "dialogInfo": [
+                {
+                  "src": "/images/key-areas/zhongdianqiye.png",
+                  "desc": "重点企业",
+                  "num": "134",
+                  "unit": "个"
+                },
+                {
+                  "src": "/images/key-areas/zhongdianqiye.png",
+                  "desc": "龙头企业",
+                  "num": "57",
+                  "unit": "个",
+                  "rate": "42%"
+                },
+                {
+                  "src": "/images/key-areas/zhongdianqiye.png",
+                  "desc": "上市企业",
+                  "num": "21",
+                  "unit": "个",
+                  "rate": "15.7%"
+                },
+                {
+                  "src": "/images/key-areas/zhongdianqiye.png",
+                  "desc": "“专精特新”企业",
+                  "num": "9",
+                  "unit": "个",
+                  "rate": "6.7%"
+                },
+                {
+                  "src": "/images/key-areas/zhongdianqiye.png",
+                  "desc": "国高企业",
+                  "num": "86",
+                  "unit": "个",
+                  "rate": "64.2%"
+                }
+              ],
+              "dialogRadio": [
+                { "id": 0, "name": "按产业排行", "value": 1 },
+                { "id": 1, "name": "按行政区排行", "value": 2 },
+                { "id": 2, "name": "按核心承载区排行", "value": 3 }
+              ]
+          },
+          {
+              "unit":"个",
+              "name":"重点项目",
+              "dialogTitle": "重点项目分析",
+              "num":"111",
+              "imageUrl":"/images/key-areas/zhongdianxiangmu.png",
+              "dialogRadio": [
+                { "id": 0, "name": "按产业排行", "value": 1 },
+                { "id": 1, "name": "按行政区排行", "value": 2 },
+                { "id": 2, "name": "按核心承载区排行", "value": 3 }
+              ]
+          },
+          {
+              "unit":"个",
+              "name":"专项政策",
+              "scoName":"投资基金",
+              "dialogTitle": "政策金融工具包",
+              "num":"5",
+              "scoNum":"4",
+              "imageUrl":"/images/key-areas/zhuanxiangzhengce.png",
+              "isShow":true,
+              "dialogRadio": [
+                { "id": 0, "name": "专项政策", "value": 1 },
+                { "id": 1, "name": "投资基金", "value": 2 }
+              ]
+          },
+          {
+              "unit":"个",
+              "name":"战略咨询支撑机构",
+              "dialogTitle": "战略咨询支撑机构",
+              "num":"5",
+              "imageUrl":"/images/key-areas/zhanlue.png"
+          },
+          {
+              "unit":"个",
+              "name":"境内外创新资源",
+              "dialogTitle": "境内外创新资源",
+              "num":"452",
+              "imageUrl":"/images/key-areas/chuangxinziyuan.png",
+              "dialogRadio": [
+                { "id": 0, "name": "企业", "value": 1 },
+                { "id": 1, "name": "科研机构", "value": 2 },
+                { "id": 2, "name": "人才", "value": 3 }
+              ]
+          }
+      ],
+      "rating":[
+          [
+              {
+                  "project":"合成生物",
+                  "startNum":5
+              },
+              {
+                  "project":"区块链",
+                  "startNum":4
+              },
+              {
+                  "project":"细胞与基因",
+                  "startNum":4
+              },
+              {
+                  "project":"空天技术",
+                  "startNum":4
+              }
+          ],
+          [
+              {
+                  "project":"脑科学与类脑智能",
+                  "startNum":3
+              },
+              {
+                  "project":"深地深海",
+                  "startNum":3
+              },
+              {
+                  "project":"可见光通信与光计算",
+                  "startNum":2
+              },
+              {
+                  "project":"量子信息",
+                  "startNum":1
+              }
+          ]
+      ]
+  }
+}

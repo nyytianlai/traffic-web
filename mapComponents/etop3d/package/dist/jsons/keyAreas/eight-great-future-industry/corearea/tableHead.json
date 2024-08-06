@@ -1,0 +1,247 @@
+{
+  "retCode": 0,
+  "results": [
+    {
+      "type": "企业列表",
+      "tableHead": [
+        {
+          "title": "序号",
+          "width": "60px",
+          "key": "index",
+          "dataIndex": "index",
+          "className": "center"
+        },
+        {
+          "title": "企业名称",
+          "width": "110px",
+          "key": "indexenterprise",
+          "dataIndex": "indexenterprise",
+          "className": "center"
+        },
+        {
+          "title": "2021年营收",
+          "width": "100px",
+          "key": "revenue",
+          "dataIndex": "revenue",
+          "className": "center"
+        },
+        {
+          "title": "2021年研发投入",
+          "width": "140px",
+          "key": "spending",
+          "dataIndex": "spending",
+          "className": "center"
+        },
+        {
+          "title": "所属行业",
+          "width": "90px",
+          "key": "district",
+          "dataIndex": "district",
+          "className": "center"
+        }
+      ],
+      "tableDialogHead": [
+        {
+          "title": "序号",
+          "key": "index",
+          "dataIndex": "index",
+          "className": "center"
+        },
+        {
+          "title": "企业名称",
+          "key": "enterprise",
+          "dataIndex": "enterprise",
+          "className": "center"
+        },
+        {
+          "title": "注册资本",
+          "key": "registeredCapital",
+          "dataIndex": "registeredCapital",
+          "className": "center"
+        },
+        {
+          "title": "成立时间",
+          "key": "date",
+          "dataIndex": "date",
+          "className": "center"
+        },
+        {
+          "title": "核心产品/技术",
+          "key": "coreProducts",
+          "dataIndex": "coreProducts",
+          "className": "center"
+        },
+        {
+          "title": "2021年营收",
+          "key": "revenue",
+          "dataIndex": "revenue",
+          "className": "center"
+        },
+        {
+          "title": "2021年研发投入",
+          "key": "spending",
+          "dataIndex": "spending",
+          "className": "center"
+        },
+        {
+          "title": "所属行业",
+          "key": "district",
+          "dataIndex": "district",
+          "className": "center"
+        }
+      ]
+    },
+    {
+      "type": "项目列表",
+      "tableHead": [
+        {
+          "title": "序号",
+          "key": "t0",
+          "dataIndex": "t0",
+          "className": "center"
+        },
+        {
+          "title": "项目名称",
+          "key": "t1",
+          "dataIndex": "t1",
+          "className": "center"
+        },
+        {
+          "title": "建设期限",
+          "key": "t2",
+          "dataIndex": "t2",
+          "className": "center"
+        },
+        {
+          "title": "投资额",
+          "key": "t3",
+          "dataIndex": "t3",
+          "className": "center"
+        },
+        {
+          "title": "所属行业",
+          "key": "t4",
+          "dataIndex": "t4",
+          "className": "center"
+        }
+      ],
+      "tableDialogHead": [
+        {
+          "title": "序号",
+          "key": "t0",
+          "dataIndex": "t0",
+          "className": "center"
+        },
+        {
+          "title": "项目名称",
+          "key": "t1",
+          "dataIndex": "t1",
+          "className": "center"
+        },
+        {
+          "title": "项目单位",
+          "key": "t5",
+          "dataIndex": "t5",
+          "className": "center"
+        },
+        {
+          "title": "建设内容",
+          "key": "t6",
+          "dataIndex": "t6",
+          "className": "center"
+        },
+        {
+          "title": "建设期限",
+          "key": "t2",
+          "dataIndex": "t2",
+          "className": "center"
+        },
+        {
+          "title": "投资额",
+          "key": "t3",
+          "dataIndex": "t3",
+          "className": "center"
+        },
+        {
+          "title": "所属行业",
+          "key": "t4",
+          "dataIndex": "t4",
+          "className": "center"
+        }
+      ]
+    },
+    {
+      "type": "科技创新体系列表",
+      "tableHead": [
+        {
+          "title": "序号",
+          "key": "t0",
+          "dataIndex": "t0",
+          "className": "center"
+        },
+        {
+          "title": "资源名称",
+          "key": "t1",
+          "dataIndex": "t1",
+          "className": "center"
+        },
+        {
+          "title": "要素类别",
+          "key": "t2",
+          "dataIndex": "t2",
+          "className": "center"
+        },
+        {
+          "title": "级别",
+          "key": "t3",
+          "dataIndex": "t3",
+          "className": "center"
+        },
+        {
+          "title": "所属行业",
+          "key": "t4",
+          "dataIndex": "t4",
+          "className": "center"
+        }
+      ],
+      "tableDialogHead": [
+        {
+          "title": "序号",
+          "key": "t0",
+          "dataIndex": "t0",
+          "className": "center"
+        },
+        {
+          "title": "资源名称",
+          "key": "t1",
+          "dataIndex": "t1",
+          "className": "center"
+        },
+        {
+          "title": "简要概况",
+          "key": "t5",
+          "dataIndex": "t5",
+          "className": "center"
+        },
+        {
+          "title": "要素类别",
+          "key": "t2",
+          "dataIndex": "t2",
+          "className": "center"
+        },
+        {
+          "title": "级别",
+          "key": "t3",
+          "dataIndex": "t3",
+          "className": "center"
+        },
+        {
+          "title": "所属行业",
+          "key": "t4",
+          "dataIndex": "t4",
+          "className": "center"
+        }
+      ]
+    }
+  ]
+}

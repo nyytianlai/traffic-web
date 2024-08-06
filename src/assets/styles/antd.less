@@ -1,0 +1,594 @@
+// 配置 antd 样式相关
+@import "~ant-design-vue/dist/antd.less";
+@import "./table.less";
+
+// 配置全局主色
+
+
+.ant-table {
+  background: none;
+}
+
+//下拉菜单样式
+.ant-dropdown-menu-submenu-popup > .ant-dropdown-menu {
+  margin-left: -2px;
+  color: #fff;
+  background-color: #09193e;
+  ;
+}
+
+.ant-dropdown-menu-item:hover,
+.ant-dropdown-menu-submenu-title:hover {
+  color: #fff;
+  background: rgba(84, 181, 255, .30);
+}
+
+.ant-dropdown-menu-item,
+.ant-dropdown-menu-submenu-title {
+  color: #9097a8;
+}
+
+.ant-dropdown-menu-submenu-arrow {
+  color: #fff;
+}
+
+.ant-dropdown-menu-submenu {
+  // background: #09193E;
+  box-sizing: border-box;
+
+// height: 30px;
+  width: 142px;
+
+// padding: 0 24px;
+  text-align: left;
+
+  .ant-dropdown-menu-item .ant-dropdown-menu-item-only-child {
+    display: block;
+  }
+}
+
+.ant-dropdown-menu-item > .anticon:first-child,
+.ant-dropdown-menu-submenu-title > .anticon:first-child,
+.ant-dropdown-menu-item > span > .anticon:first-child,
+.ant-dropdown-menu-submenu-title > span > .anticon:first-child {
+  color: #fff;
+}
+
+.ant-select {
+  color: #9bd4ff;
+  font-family: PingFangSC-Regular;
+  font-size: 16px;
+}
+
+.ant-select:not(.ant-select-customize-input) .ant-select-selector {
+  background: rgba(84, 181, 255, .30);
+  border: 1px solid rgba(84, 181, 255, .80) !important;
+}
+
+.ant-select-arrow {
+  // color: #54b5ff;
+  color: #9bd4ff;
+}
+
+.ant-select-item {
+  color: #00c7f6;
+}
+
+.ant-select-dropdown {
+  background-color: rgba(22, 77, 119, .3) !important;
+  box-shadow: inset 0 1px 165px 0 rgba(84, 181, 255, .20);
+  border: 1px solid rgba(84, 181, 255, .30);
+}
+
+.ant-select-item-option-selected:not(.ant-select-item-option-disabled) {
+  // color: #54b5ff !important;
+  color: #9bd4ff !important;
+  background: rgba(84, 181, 255, .30);
+}
+
+.ant-select-item-option-active:not(.ant-select-item-option-disabled) {
+  // color: #54b5ff !important;
+  color: #9bd4ff !important;
+  background: rgba(84, 181, 255, .30);
+}
+
+:deep(.ant-radio-group) {
+  display: flex;
+}
+
+.ant-radio-wrapper {
+  height: 20px;
+  margin-right: 20px;
+
+// color: #54b5ff;
+  color: #9bd4ff;
+  font-family: PingFangSC-Regular;
+  font-size: 14px;
+  font-weight: 400;
+  opacity: .8;
+}
+
+.ant-radio-inner {
+  position: relative;
+  top: -3px;
+  left: 0;
+  width: 11.39px;
+  height: 12px;
+  background: transparent;
+  border: 1px solid #54b5ff;
+}
+
+.ant-radio-inner::after {
+  position: absolute;
+  top: 2px;
+  left: 1.5px;
+  width: 5.69px;
+  height: 6px;
+  background: #54b5ff;
+}
+
+span.ant-radio + * {
+  padding-right: 4px;
+  padding-left: 4px;
+}
+
+
+// 公共弹窗样式
+.ant-modal-content {
+  background-image: linear-gradient(0deg, #0a124a 0%, #091a56 100%) !important;
+
+// background: linear-gradient(0deg, rgba(10,18,74,1) 0%, rgba(9,26,86,1) 100%);
+  border: 2px solid rgba(167, 250, 255, .25);
+  border-radius: 2px;
+}
+
+.ant-modal-header {
+  padding: 16px 24px;
+  color: rgba(0, 0, 0, .85);
+  background: rgba(255, 255, 255, 0);
+  border: none;
+}
+
+.ant-modal-title {
+  margin: 0;
+
+// color: #54b5ff;
+  color: #9bd4ff;
+  font-family: "PingFangSC-Medium";
+  font-size: 18px;
+  line-height: 22px;
+  word-wrap: break-word;
+}
+
+.ant-calendar-picker-container {
+  // transform: translateY(0.44rem);
+}
+
+.ant-calendar-header {
+  border-bottom: transparent;
+}
+.ant-calendar-range .ant-calendar-body,
+.ant-calendar-range .ant-calendar-month-panel-body,
+.ant-calendar-range .ant-calendar-year-panel-body,
+.ant-calendar-range .ant-calendar-decade-panel-body {
+  border-top: transparent;
+}
+.ant-calendar-range-picker-separator {
+  color: rgba(255, 255, 255, .7);
+}
+.ant-calendar-picker-input {
+  display: inline-block;
+  max-width: 3rem;
+  height: 32px;
+  background-color: #54b5ff19;
+  border-color: rgba(84,181,255,.50);
+}
+.ant-calendar-picker-icon {
+  color: #54b5ff7f;
+}
+.ant-calendar-range-picker-input {
+  color: rgba(255, 255, 255, .7);
+}
+.ant-calendar {
+  border-color: rgba(84,181,255,.50);
+  .ant-calendar.ant-calendar-picker-container-content {
+    .ant-calendar-input-wrap {
+      // display: none;
+    }
+  }
+
+  .ant-calendar-in-range-cell::before {
+    background: #14395e;
+    border: 1px solid #9bd4ff;
+  }
+
+
+  .ant-calendar-input {
+    color: #fff;
+    font-size: .18rem;
+    background: #14395e;
+  }
+
+  .ant-calendar-footer,
+  .ant-calendar-header,
+  .ant-calendar-input-wrap,
+  .ant-calendar,
+  .ant-calendar-month-panel-header,
+  .ant-calendar-year-panel-header,
+  .ant-calendar-decade-panel-header {
+    border-color: transparent;
+  }
+
+
+  .ant-calendar-picker-container {
+    color: rgba(#fff, .5);
+  }
+
+
+  .ant-calendar {
+    background-color: #14395e;
+    border-color: rgba(84,181,255,.50);
+  }
+
+  .ant-calendar-panel,
+  .ant-calendar-month-panel,
+  .ant-calendar-date-panel,
+  .ant-calendar-decade-panel {
+    background-color: #14395e;
+    .ant-calendar-input {
+      color: #fff;
+      background: #14395e;
+    }
+
+    .ant-calendar-date,
+    .ant-calendar-header a,
+    .ant-calendar-disabled-cell .ant-calendar-date {
+      // color: rgba(#54b5ff);
+      color: #9bd4ff;
+      font-size: .14rem;
+
+      &:hover {
+        // color: #54b5ff;
+        color: #9bd4ff;
+        background-color: rgba(84,181,255,.20);
+      }
+    }
+
+    .ant-calendar-last-month-cell .ant-calendar-date,
+    .ant-calendar-next-month-btn-day .ant-calendar-date,
+    .ant-calendar-last-month-cell .ant-calendar-date:hover,
+    .ant-calendar-next-month-btn-day .ant-calendar-date:hover,
+    .ant-calendar-year-panel-last-decade-cell .ant-calendar-year-panel-year,
+    .ant-calendar-year-panel-next-decade-cell .ant-calendar-year-panel-year,
+    .ant-calendar-year-panel-year,
+    .ant-calendar-decade-panel-decade {
+      color: rgba(84,181,255,.30);
+    }
+
+    .ant-calendar-header .ant-calendar-century-select,
+    .ant-calendar-header .ant-calendar-decade-select,
+    .ant-calendar-header .ant-calendar-year-select,
+    .ant-calendar-header .ant-calendar-month-select {
+      // color: #54b5ff;
+      color: #9bd4ff;
+      font-size: .16rem;
+
+      &:hover {
+        color: #fff;
+        background-color: transparent;
+      }
+    }
+
+    .ant-calendar-header .ant-calendar-prev-month-btn::before,
+    .ant-calendar-header .ant-calendar-prev-month-btn::after,
+    .ant-calendar-header .ant-calendar-prev-century-btn::before,
+    .ant-calendar-header .ant-calendar-prev-decade-btn::before,
+    .ant-calendar-header .ant-calendar-prev-year-btn::before,
+    .ant-calendar-header .ant-calendar-prev-century-btn::after,
+    .ant-calendar-header .ant-calendar-prev-decade-btn::after,
+    .ant-calendar-header .ant-calendar-prev-year-btn::after,
+    .ant-calendar-header .ant-calendar-next-month-btn::before,
+    .ant-calendar-header .ant-calendar-next-month-btn::after,
+    .ant-calendar-header .ant-calendar-next-century-btn::before,
+    .ant-calendar-header .ant-calendar-next-decade-btn::before,
+    .ant-calendar-header .ant-calendar-next-year-btn::before,
+    .ant-calendar-header .ant-calendar-next-century-btn::after,
+    .ant-calendar-header .ant-calendar-next-decade-btn::after,
+    .ant-calendar-header .ant-calendar-next-year-btn::after {
+      border-color: #54b5ff;
+      &:hover {
+        border-color: #54b5ff;
+      }
+    }
+
+    .ant-calendar-footer,
+    .ant-calendar-header,
+    .ant-calendar-input-wrap,
+    .ant-calendar,
+    .ant-calendar-month-panel-header,
+    .ant-calendar-year-panel-header,
+    .ant-calendar-decade-panel-header {
+      border-color: transparent;
+    }
+
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-prev-century-btn::before,
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-prev-decade-btn::before,
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-prev-year-btn::before,
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-prev-century-btn::after,
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-prev-decade-btn::after,
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-prev-year-btn::after,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-prev-century-btn::before,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-prev-decade-btn::before,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-prev-year-btn::before,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-prev-century-btn::after,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-prev-decade-btn::after,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-prev-year-btn::after,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-next-century-btn::before,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-next-decade-btn::before,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-next-year-btn::before,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-next-century-btn::after,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-next-decade-btn::after,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-next-year-btn::after,
+    .ant-calendar-decade-panel-header .ant-calendar-decade-panel-prev-century-btn::before,
+    .ant-calendar-decade-panel-header .ant-calendar-decade-panel-prev-decade-btn::before,
+    .ant-calendar-decade-panel-header .ant-calendar-decade-panel-prev-year-btn::before,
+    .ant-calendar-decade-panel-header .ant-calendar-decade-panel-prev-century-btn::after,
+    .ant-calendar-decade-panel-header .ant-calendar-decade-panel-prev-decade-btn::after,
+    .ant-calendar-decade-panel-header .ant-calendar-decade-panel-prev-year-btn::after,
+    .ant-calendar-decade-panel-header .ant-calendar-decade-panel-next-century-btn::before,
+    .ant-calendar-decade-panel-header .ant-calendar-decade-panel-next-decade-btn::before,
+    .ant-calendar-decade-panel-header .ant-calendar-decade-panel-next-year-btn::before,
+    .ant-calendar-decade-panel-header .ant-calendar-decade-panel-next-century-btn::after,
+    .ant-calendar-decade-panel-header .ant-calendar-decade-panel-next-decade-btn::after,
+    .ant-calendar-decade-panel-header .ant-calendar-decade-panel-next-year-btn::after {
+      border-color: #54b5ff;
+      &:hover {
+        border-color: #54b5ff;
+      }
+    }
+
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-century-select,
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-decade-select,
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-year-select,
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-month-select,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-century-select,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-decade-select,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-year-select,
+    .ant-calendar-year-panel-header .ant-calendar-year-panel-month-select,
+    .ant-calendar-decade-panel-header {
+      // color: #54b5ff;
+      color: #9bd4ff;
+
+      &:hover {
+        color: #fff;
+        background-color: transparent;
+      }
+    }
+
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-next-century-btn::before,
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-next-decade-btn::before,
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-next-year-btn::before,
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-next-century-btn::after,
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-next-decade-btn::after,
+    .ant-calendar-month-panel-header .ant-calendar-month-panel-next-year-btn::after {
+      border-color: #54b5ff;
+      &:hover {
+        border-color: #54b5ff;
+      }
+    }
+
+    .ant-calendar-column-header .ant-calendar-column-header-inner {
+      color: rgba(#fff, .5);
+      font-size: .14rem;
+    }
+
+    .ant-calendar-selected-day .ant-calendar-date,
+    .ant-calendar-decade-panel-selected-cell .ant-calendar-decade-panel-decade {
+      color: #fff;
+      background-color: #54b5ff;
+    }
+
+    .ant-calendar-month-panel-selected-cell .ant-calendar-month-panel-month,
+    .ant-calendar-year-panel-selected-cell .ant-calendar-year-panel-year {
+      color: #fff;
+      background-color: #54b5ff;
+    }
+
+    .ant-calendar-year-panel {
+      background-color: #14395e;
+    }
+
+    .ant-calendar-disabled-cell .ant-calendar-date {
+      color: rgba(84,181,255,.30);
+      background: transparent;
+    }
+  }
+
+  .ant-calendar .ant-calendar-today-btn-disabled,
+  .ant-calendar .ant-calendar-clear-btn-disabled {
+    color: rgba(84,181,255,.30);
+  }
+
+  .ant-calendar-today-btn {
+    // color: #54b5ff;
+    color: #9bd4ff;
+  }
+
+  table tbody tr {
+    &:hover {
+      background: transparent;
+
+      td {
+        background: transparent !important;
+      }
+    }
+  }
+  .ant-calendar-cell.ant-calendar-last-day-of-month.ant-calendar-disabled-cell-last-of-row.ant-calendar-selected-day.ant-calendar-disabled-cell .ant-calendar-date {
+    color: #fff;
+    background: #54b5ff;
+    border-radius: .02rem;
+
+    &::before {
+      background-color: transparent !important;
+    }
+  }
+
+  .ant-calendar-footer {
+    padding: .09rem .24rem;
+
+    .ant-calendar-footer-btn {
+      line-height: .28rem;
+
+      &:hover {
+        background: rgba(84,181,255,.20);
+        border-radius: 2px;
+      }
+    }
+  }
+}
+.ant-calendar .ant-calendar-panel .ant-calendar-date,
+.ant-calendar .ant-calendar-month-panel .ant-calendar-date,
+.ant-calendar .ant-calendar-date-panel .ant-calendar-date,
+.ant-calendar .ant-calendar-decade-panel .ant-calendar-date,
+.ant-calendar .ant-calendar-panel .ant-calendar-header a,
+.ant-calendar .ant-calendar-month-panel .ant-calendar-header a,
+.ant-calendar .ant-calendar-date-panel .ant-calendar-header a,
+.ant-calendar .ant-calendar-decade-panel .ant-calendar-header a,
+.ant-calendar .ant-calendar-panel .ant-calendar-disabled-cell .ant-calendar-date,
+.ant-calendar .ant-calendar-month-panel .ant-calendar-disabled-cell .ant-calendar-date,
+.ant-calendar .ant-calendar-date-panel .ant-calendar-disabled-cell .ant-calendar-date,
+.ant-calendar .ant-calendar-decade-panel .ant-calendar-disabled-cell .ant-calendar-date {
+  background-color: transparent;
+}
+
+.ant-calendar-month-panel-cell-disabled .ant-calendar-month-panel-month,
+.ant-calendar-month-panel-cell-disabled .ant-calendar-month-panel-month:hover {
+  color: rgba(84, 181, 255, .3) !important;
+}
+
+.ant-calendar-picker-clear {
+  // background-color: #0085ff;
+  background-color: transparent;
+
+  svg {
+    color: #0085ff;
+
+    fill: #0085ff;
+  }
+} 
+// tatle
+
+
+
+/*.ant-table-thead th {
+    color: #30B3FA;
+    font-size: 14px;
+    padding: 9px 10px;
+    font-weight: 500;
+    background-color: #0D2543;
+    border-bottom: 1px solid #ffffff23;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.ant-table-header-column::after {
+    content: " ";
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #485b71;
+    width: 4px;
+    height: 4px;
+}
+
+.ant-table-column-title::after {
+    content: " ";
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    background-color: #485b71;
+    width: 4px;
+    height: 4px;
+}
+
+.ant-table-header-column::before {
+    content: " ";
+    display: block;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: #485b71;
+    width: 4px;
+    height: 4px;
+}
+
+.ant-table-column-title::before {
+    content: " ";
+    display: block;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    background-color: #485b71;
+    width: 4px;
+    height: 4px;
+}
+
+.ant-table-tbody>tr>td {
+    background-color: #0d2e4f;
+    border: 1px solid #012244 !important;
+    font-size: 14px;
+    color: #FFFFFF;
+    padding: 8px 16px;
+    font-weight: 400;
+  }*/
+
+//   .center {
+//     text-align: center!important;
+//   }
+
+//    .right {
+//     text-align: right!important;
+//   }
+
+//   .left{
+//     text-align: left!important;
+//   }
+
+table tbody tr:hover > td {
+  background-color: #0d2e4f!important;
+}
+
+.ant-pagination {
+  .ant-pagination-prev .ant-pagination-item-link,
+  .ant-pagination-next .ant-pagination-item-link {
+    // color: #54b5ff;
+    color: #9bd4ff;
+    background-color: transparent;
+    border: 1px solid #54b5ff;
+  }
+  .ant-pagination-disabled .ant-pagination-item-link {
+    color: #035078;
+    border: 1px solid #035078;
+  }
+  .ant-pagination-item {
+    background-color: transparent;
+    border: 1px solid #54b5ff;
+    a {
+      // color: #54b5ff;
+      color: #9bd4ff;
+    }
+  }
+  .ant-pagination-item-active {
+    background: #54b5ff;
+    a {
+      color: #000;
+    }
+  }
+  .ant-pagination-jump-prev .ant-pagination-item-container .ant-pagination-item-ellipsis,
+  .ant-pagination-jump-next .ant-pagination-item-container .ant-pagination-item-ellipsis {
+    color: #54b5ff;
+    color: #9bd4ff;
+  }
+}

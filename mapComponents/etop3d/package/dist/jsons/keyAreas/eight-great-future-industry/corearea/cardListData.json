@@ -1,0 +1,1503 @@
+{
+  "retCode": 0,
+  "results": [
+    {
+      "industry": "光明科学城",
+      "descInfo": {
+        "name": "光明科学城",
+        "area": "光明区",
+        "desc": "规划面积99平方公里，在天安云谷、恒泰裕、华南医谷、卫光生命科学园、招商局智慧城、玉塘街道片区、证通电子产业园等区域，布局",
+        "place": "合成生物、区块链、脑科学与类脑智能、可见光通信与光计算、量子信息等产业。",
+        "isLong": true,
+        "num": 5,
+        "detail": [
+          {
+            "title": "光明科学城",
+            "desc": "作为大湾区综合性国家科学中心先行启动区，位于光明区东北部，总面积99平方公里，规划范围北起深莞边界，东、南至光明区边界，西以龙大高速为界。光明科学城总体呈现“一心两区，绿环萦绕”的空间布局，即北部为装置集聚区，中部为光明中心区，南部为产业转化区。其中，装置集聚区将规划建设脑解析与脑模拟、合成生物研究、材料基因组、精准医学影像、先进表征综合粒子设施、国家超级计算深圳中心二期、鹏城云脑Ⅲ等重大科技基础设施及深圳湾实验室等重大创新平台，布局建设中山大学深圳校区、中国科学院深圳理工大学等研究型高校。布局"
+          },
+          {
+            "title": "合成生物、区块链、脑科学与类脑智能、可见光通信与光计算、量子信息等产业。",
+            "desc": ""
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "unit": "亿元",
+          "name": "2021 项目投资额",
+          "dialogTitle": "项目投资额分析",
+          "num": "***",
+          "Proportion": "20%",
+          "imageUrl": "/images/key-areas/touzie.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资",
+              "num": "1,578.12",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "1,578.12",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "1,613.39",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "项目TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "2020 专利数量",
+          "dialogTitle": "专利分析",
+          "num": "33347",
+          "Proportion": "20%",
+          "imageUrl": "/images/key-areas/zhuanli.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 专利数量",
+              "num": "33,349",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 国内发明专利授权量",
+              "num": "15,789",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 PCT 国际专利申请量",
+              "num": "17,560",
+              "unit": "个"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "科研机构TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "科技创新体系",
+          "dialogTitle": "科技创新体系分析",
+          "num": "174",
+          "Proportion": "20%",
+          "imageUrl": "/images/key-areas/kejichaungxin.png"
+        },
+        {
+          "unit": "个",
+          "name": "重点企业",
+          "dialogTitle": "重点企业分析",
+          "num": "111",
+          "Proportion": "20%",
+          "imageUrl": "/images/key-areas/zhongdianqiye.png",
+          "dialogInfo": [
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "重点企业",
+              "num": "134",
+              "unit": "个"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "龙头企业",
+              "num": "57",
+              "unit": "个",
+              "rate": "42%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "上市企业",
+              "num": "21",
+              "unit": "个",
+              "rate": "15.7%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "“专精特新”企业",
+              "num": "9",
+              "unit": "个",
+              "rate": "6.7%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "国高企业",
+              "num": "86",
+              "unit": "个",
+              "rate": "64.2%"
+            }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "重点项目",
+          "dialogTitle": "重点项目分析",
+          "num": "111",
+          "Proportion": "20%",
+          "imageUrl": "/images/key-areas/zhongdianxiangmu.png"
+        }
+      ]
+    },
+    {
+      "industry": "东部滨海国际生物谷",
+      "descInfo": {
+        "name": "东部滨海国际生物谷",
+        "area": "大鹏新区/盐田区",
+        "place": "规划面积39.63平方公里，由滨海国际生物谷盐田片区和大鹏片区共同组成，在",
+        "desc": "盐田临港产业带、华大基因中心、坝光生物家园、影像医疗创新产业园、坝光创新产业园等区域，布局合成生物、细胞与基因（含生物育种）、深地深海等产业。",
+        "isLong": true,
+        "num": 5,
+        "detail": [
+          {
+            "title": "东部滨海国际生物谷",
+            "desc": "规划面积39.63平方公里，由滨海国际生物谷盐田片区和大鹏片区共同组成，在盐田临港产业带、华大基因中心、坝光生物家园、影像医疗创新产业园、坝光创新产业园等区域，布局"
+          },
+          {
+            "title": "合成生物、细胞与基因（含生物育种）、深地深海",
+            "desc": "等产业。"
+          },
+          {
+            "title": "依托深圳华大生命科学研究院、深圳华大海洋研究院、深圳国家基因库、中国农业科学院(深圳)农业基因组研究所等国家级基础研究平台，打造合成生物、细胞与基因（含生物育种）、深地深海等产业前沿引领示范基地。布局合成生物、细胞与基因（含生物育种）、深地深海等产业。",
+            "desc": ""
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "unit": "亿元",
+          "name": "2021 项目投资额",
+          "dialogTitle": "项目投资额分析",
+          "num": "***",
+          "Proportion": "*",
+          "imageUrl": "/images/key-areas/touzie.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "***",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "项目TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "2020 专利数量",
+          "dialogTitle": "专利分析",
+          "num": "63",
+          "Proportion": "0.19%",
+          "imageUrl": "/images/key-areas/zhuanli.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 专利数量",
+              "num": "63",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 国内发明专利授权量",
+              "num": "57",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 PCT 国际专利申请量",
+              "num": "6",
+              "unit": "个"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "科研机构TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "科技创新体系",
+          "dialogTitle": "科技创新体系分析",
+          "num": "32",
+          "Proportion": "18.39%",
+          "imageUrl": "/images/key-areas/kejichaungxin.png"
+        },
+        {
+          "unit": "个",
+          "name": "重点企业",
+          "dialogTitle": "重点企业分析",
+          "num": "25",
+          "Proportion": "19.69%",
+          "imageUrl": "/images/key-areas/zhongdianqiye.png",
+          "dialogInfo": [
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "重点企业",
+              "num": "25",
+              "unit": "个"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "龙头企业",
+              "num": "11",
+              "unit": "个",
+              "rate": "44%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "上市企业",
+              "num": "6",
+              "unit": "个",
+              "rate": "24%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "“专精特新”企业",
+              "num": "2",
+              "unit": "个",
+              "rate": "8%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "国高企业",
+              "num": "21",
+              "unit": "个",
+              "rate": "84%"
+            }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "重点项目",
+          "dialogTitle": "重点项目分析",
+          "num": "24",
+          "Proportion": "18.46%",
+          "imageUrl": "/images/key-areas/zhongdianxiangmu.png"
+        }
+      ]
+    },
+    {
+      "industry": "西丽湖国际科教城",
+      "descInfo": {
+        "name": "西丽湖国际科教城",
+        "area": "南山区",
+        "place": "规划面积69.8平方公里，在",
+        "desc": "南山生命科技产业园、红花岭及北部片区、南山智城等区域，布局细胞与基因（含生物育种）、脑科学与类脑智能等产业。",
+        "isLong": true,
+        "num": 5,
+        "detail": [
+          {
+            "title": "西丽湖国际科教城",
+            "desc": "规划面积39.位于深圳市南山区北部，规划面积69.8平方公里，东、西、北至南山区行政边界，南以塘朗山山脊线、平南铁路、广深高速为界。西丽湖国际科教城是粤港澳大湾区和深圳社会主义先行示范区建设的重要引擎与示范载体、部省市共建的重大战略平台，高等院校、科研机构、高新技术企业、高端人才集中，具备构建全过程创新生态链的坚实基础。高等院校方面，有深圳大学、南方科技大学、哈尔滨工业大学（深圳）、深圳职业技术学院、清华大学深圳国际研究生院、北京大学深圳研究生院和天津大学佐治亚理工深圳学院，是全市高校资源最为密集的区域。创新载体方面，该片区布局了国家实验室鹏城实验室，拥有国家省市各类创新载体519家，这里也布局了中国科学院深圳先进技术研究院、国家超算深圳中心、深圳计量质量检测研究院、9所诺奖科学家实验室等一批高层次创新平台。人才集聚方面，有4.54万在校生和1.5万科教人才。同时，科教城覆盖留仙洞战略性新兴产业总部基地，有国高企业800余家，主要集中在"
+          },
+          {
+            "title": "生物医药、新一代信息技术领域。布局细胞与基因（含生物育种）、脑科学与类脑智能等产业。",
+            "desc": ""
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "unit": "亿元",
+          "name": "2021 项目投资额",
+          "dialogTitle": "项目投资额分析",
+          "num": "***",
+          "Proportion": "*",
+          "imageUrl": "/images/key-areas/touzie.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "***",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "项目TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "2020 专利数量",
+          "dialogTitle": "专利分析",
+          "num": "7562",
+          "Proportion": "22.68%",
+          "imageUrl": "/images/key-areas/zhuanli.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 专利数量",
+              "num": "7562",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 国内发明专利授权量",
+              "num": "4316",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 PCT 国际专利申请量",
+              "num": "3246",
+              "unit": "个"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "科研机构TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "科技创新体系",
+          "dialogTitle": "科技创新体系分析",
+          "num": "25",
+          "Proportion": "14.37%",
+          "imageUrl": "/images/key-areas/kejichaungxin.png"
+        },
+        {
+          "unit": "个",
+          "name": "重点企业",
+          "dialogTitle": "重点企业分析",
+          "num": "20",
+          "Proportion": "15.75%",
+          "imageUrl": "/images/key-areas/zhongdianqiye.png",
+          "dialogInfo": [
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "重点企业",
+              "num": "20",
+              "unit": "个"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "龙头企业",
+              "num": "7",
+              "unit": "个",
+              "rate": "42%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "上市企业",
+              "num": "2",
+              "unit": "个",
+              "rate": "15.7%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "“专精特新”企业",
+              "num": "1",
+              "unit": "个",
+              "rate": "6.7%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "国高企业",
+              "num": "15",
+              "unit": "个",
+              "rate": "64.2%"
+            }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "重点项目",
+          "dialogTitle": "重点项目分析",
+          "num": "12",
+          "Proportion": "9.23%",
+          "imageUrl": "/images/key-areas/zhongdianxiangmu.png"
+        }
+      ]
+    },
+    {
+      "industry": "河套深港科技创新合作区",
+      "descInfo": {
+        "name": "河套深港科技创新合作区",
+        "area": "福田区",
+        "place": "规划面积3.89平方公里，在",
+        "desc": "皇岗口岸片区协同创新区、深港国际科技园等区域，布局区块链、脑科学与类脑智能、量子信息等产业。",
+        "isLong": true,
+        "num": 5,
+        "detail": [
+          {
+            "title": "河套深港科技创新合作区",
+            "desc": "位于深圳市福田区南部与香港接壤处，总面积约4平方公里，其中深圳河南侧的香港园区面积约0.87平方公里；深圳河北侧的深圳园区（包括皇岗口岸片区和福田保税区）面积约3.02平方公里。凭借独特的区位优势、制度优势和深港耦合优势，合作区吸引和集聚了一大批优质创新资源，实质推进和落地高端科研项目和平台逾百个，包括"
+          },
+          {
+            "title": "香港5所“世界百强”高校项目、金砖国家未来网络研究院中国分院、未来网络试验设施国家重大科技基础设施、深圳国际量子研究院、国家药监局药品审评检查粤港澳大湾区分中心和医疗器械技术审评检查粤港澳大湾区分中心等。布局区块链、脑科学与类脑智能、量子信息等产业。",
+            "desc": ""
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "unit": "亿元",
+          "name": "2021 项目投资额",
+          "dialogTitle": "项目投资额分析",
+          "num": "***",
+          "Proportion": "*",
+          "imageUrl": "/images/key-areas/touzie.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "***",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "项目TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "2020 专利数量",
+          "dialogTitle": "专利分析",
+          "num": "2892",
+          "Proportion": "8.67%",
+          "imageUrl": "/images/key-areas/zhuanli.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 专利数量",
+              "num": "2892",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 国内发明专利授权量",
+              "num": "1014",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 PCT 国际专利申请量",
+              "num": "1878",
+              "unit": "个"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "科研机构TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "科技创新体系",
+          "dialogTitle": "科技创新体系分析",
+          "num": "15",
+          "Proportion": "8.62%",
+          "imageUrl": "/images/key-areas/kejichaungxin.png"
+        },
+        {
+          "unit": "个",
+          "name": "重点企业",
+          "dialogTitle": "重点企业分析",
+          "num": "15",
+          "Proportion": "11.81%",
+          "imageUrl": "/images/key-areas/zhongdianqiye.png",
+          "dialogInfo": [
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "重点企业",
+              "num": "15",
+              "unit": "个"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "龙头企业",
+              "num": "7",
+              "unit": "个",
+              "rate": "46.67%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "上市企业",
+              "num": "4",
+              "unit": "个",
+              "rate": "26.67%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "“专精特新”企业",
+              "num": "0",
+              "unit": "个",
+              "rate": "0%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "国高企业",
+              "num": "8",
+              "unit": "个",
+              "rate": "53.33%"
+            }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "重点项目",
+          "dialogTitle": "重点项目分析",
+          "num": "12",
+          "Proportion": "9.23%",
+          "imageUrl": "/images/key-areas/zhongdianxiangmu.png"
+        }
+      ]
+    },
+    {
+      "industry": "红岭新兴金融产业带",
+      "descInfo": {
+        "name": "红岭新兴金融产业带",
+        "area": "罗湖区",
+        "place": "规划面临约2.03平方公里，在",
+        "desc": "高新技术产业第一园区、粤海城、5G数字产业园等区域，布局区块链产业。",
+        "isLong": false,
+        "num": 5,
+        "detail": [
+          {
+            "title": "红岭新兴金融产业带",
+            "desc": "以红岭路为轴，北接泥岗，南至滨河，面积约2.03平方公里。罗湖区80%的金融机构集聚在红岭路，积淀了一大批"
+          },
+          {
+            "title": "中外资金融机构、总部企业以及跨国企业分支，平安银行、国信证券、工商银行、农业银行、汇丰银行、渣打银行",
+            "desc": "等扎堆发展，产业集群已天然形成。该产业带划分为金融科技与创新创业区、新兴金融要素区、金融总部商业区三大功能片区，在巩固传统金融优势地位的同时，着力吸引"
+          },
+          {
+            "title": "风险投资、财富管理、金融科技、黄金金融等各类新兴金融机构",
+            "desc": "集聚，积极构建以粤港澳大湾区金融服务示范区核心的现代化产业发展新格局。2018年，产业带纳入深圳市的“一城、一街、一带“金融规划布局。红岭新兴金融产业带目前已布局近20个城市更新项目，将释放500万平方米的产业空间。布局区块链产业。"
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "unit": "亿元",
+          "name": "2021 项目投资额",
+          "dialogTitle": "项目投资额分析",
+          "num": "***",
+          "Proportion": "*",
+          "imageUrl": "/images/key-areas/touzie.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "***",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "项目TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "2020 专利数量",
+          "dialogTitle": "专利分析",
+          "num": "15",
+          "Proportion": "0.04%",
+          "imageUrl": "/images/key-areas/zhuanli.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 专利数量",
+              "num": "15",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 国内发明专利授权量",
+              "num": "15",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 PCT 国际专利申请量",
+              "num": "0",
+              "unit": "个"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "科研机构TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "科技创新体系",
+          "dialogTitle": "科技创新体系分析",
+          "num": "9",
+          "Proportion": "5.17%",
+          "imageUrl": "/images/key-areas/kejichaungxin.png"
+        },
+        {
+          "unit": "个",
+          "name": "重点企业",
+          "dialogTitle": "重点企业分析",
+          "num": "8",
+          "Proportion": "6.30%",
+          "imageUrl": "/images/key-areas/zhongdianqiye.png",
+          "dialogInfo": [
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "重点企业",
+              "num": "8",
+              "unit": "个"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "龙头企业",
+              "num": "4",
+              "unit": "个",
+              "rate": "50.00%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "上市企业",
+              "num": "3",
+              "unit": "个",
+              "rate": "37.50%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "“专精特新”企业",
+              "num": "1",
+              "unit": "个",
+              "rate": "12,50%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "国高企业",
+              "num": "2",
+              "unit": "个",
+              "rate": "25.00%"
+            }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "重点项目",
+          "dialogTitle": "重点项目分析",
+          "num": "2",
+          "Proportion": "1.54%",
+          "imageUrl": "/images/key-areas/zhongdianxiangmu.png"
+        }
+      ]
+    },
+    {
+      "industry": "国家高新区南山园区",
+      "descInfo": {
+        "name": "国家高新区南山园区",
+        "area": "南山区",
+        "place": "规划面积20.04平方公里，在",
+        "desc": "南山智城、清华信息港、深圳市高新技术企业联合总部大厦、航天工研院总部大厦等区域，布局合成生物、空天技术、可见光通信与光计算等产业。",
+        "isLong": false,
+        "num": 5,
+        "detail": [
+          {
+            "title": "南山园区",
+            "desc": "包括深圳湾片区、留仙洞片区、石壁龙片区、大学城片区四大片区，总规划面积20.04平方公里。作为南山区集成电路、人工智能、5G、生物医药、数字经济、新材料等新兴产业聚集地，聚集了南山区82.3%的上市企业、61.9%的规模以上工业企业、51.6%的国家高新技术企业、26.9%的规模以上服务业企业，培育出"
+          },
+          {
+            "title": "中兴、腾讯、创维、大疆、迈瑞",
+            "desc": "等闻名全球的龙头企业和一批极具发展潜力的创新型企业，形成了良性发展的企业梯队，成为支撑产业高质量发展的基石。布局"
+          },
+          {
+            "title": "合成生物、空天技术、可见光通信与光计算等产业。",
+            "desc": ""
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "unit": "亿元",
+          "name": "2021 项目投资额",
+          "dialogTitle": "项目投资额分析",
+          "num": "***",
+          "Proportion": "*",
+          "imageUrl": "/images/key-areas/touzie.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "***",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "项目TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "2020 专利数量",
+          "dialogTitle": "专利分析",
+          "num": "8715",
+          "Proportion": "26.13%",
+          "imageUrl": "/images/key-areas/zhuanli.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 专利数量",
+              "num": "8715",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 国内发明专利授权量",
+              "num": "2146",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 PCT 国际专利申请量",
+              "num": "6569",
+              "unit": "个"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "科研机构TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "科技创新体系",
+          "dialogTitle": "科技创新体系分析",
+          "num": "29",
+          "Proportion": "16.67%",
+          "imageUrl": "/images/key-areas/kejichaungxin.png"
+        },
+        {
+          "unit": "个",
+          "name": "重点企业",
+          "dialogTitle": "重点企业分析",
+          "num": "17",
+          "Proportion": "13.39%",
+          "imageUrl": "/images/key-areas/zhongdianqiye.png",
+          "dialogInfo": [
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "重点企业",
+              "num": "17",
+              "unit": "个"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "龙头企业",
+              "num": "7",
+              "unit": "个",
+              "rate": "41.18%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "上市企业",
+              "num": "2",
+              "unit": "个",
+              "rate": "11.76%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "“专精特新”企业",
+              "num": "0",
+              "unit": "个",
+              "rate": "0,00%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "国高企业",
+              "num": "12",
+              "unit": "个",
+              "rate": "70.59%"
+            }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "重点项目",
+          "dialogTitle": "重点项目分析",
+          "num": "10",
+          "Proportion": "7.69%",
+          "imageUrl": "/images/key-areas/zhongdianxiangmu.png"
+        }
+      ]
+    },
+    {
+      "industry": "国家高新区龙岗园区",
+      "descInfo": {
+        "name": "国家高新区龙岗园区",
+        "area": "龙岗区",
+        "place": "规划面积46.54平方公里，在",
+        "desc": "宝龙生物药创新发展先导区、坂雪岗科技城等区域，布局细胞与基因（含生物育种）、可见光通信与光计算等产业。",
+        "isLong": false,
+        "num": 5,
+        "detail": [
+          {
+            "title": "龙岗园区",
+            "desc": "由坂雪岗科技城和宝龙科技城两个片区组成，总面积约46.54平方公里。其中，宝龙科技城，由东部过境通道、深惠高速公路、翠宝路、丹荷路围合而成，规划面积18.03平方公里，形成了以ICT、新能源、生命科学、集成电路、人工智能物联网等为主的产业发展格局，成为华南地区具有较大影响力的集成电路和新能源产业基地。坂雪岗科技城，位于龙岗区坂田街道，南临南坪快速路，北邻机荷高速，东至清平高速，西至梅观高速，总规划面积28.51平方公里。拥有华为、康冠、航嘉驰源等国家级高新技术企业461家，规模以上"
+          },
+          {
+            "title": "企业548家，申请专利总数超过10万个，重点实验室、技术中心22个，天安云谷、星河WORLD、云里智能园等园区125个。布局细胞与基因（含生物育种）、可见光通信与光计算等产业。"
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "unit": "亿元",
+          "name": "2021 项目投资额",
+          "dialogTitle": "项目投资额分析",
+          "num": "***",
+          "Proportion": "*",
+          "imageUrl": "/images/key-areas/touzie.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "***",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "项目TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "2020 专利数量",
+          "dialogTitle": "专利分析",
+          "num": "11979",
+          "Proportion": "35.92%",
+          "imageUrl": "/images/key-areas/zhuanli.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 专利数量",
+              "num": "11979",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 国内发明专利授权量",
+              "num": "6507",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 PCT 国际专利申请量",
+              "num": "5472",
+              "unit": "个"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "科研机构TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "科技创新体系",
+          "dialogTitle": "科技创新体系分析",
+          "num": "5",
+          "Proportion": "2.87%",
+          "imageUrl": "/images/key-areas/kejichaungxin.png"
+        },
+        {
+          "unit": "个",
+          "name": "重点企业",
+          "dialogTitle": "重点企业分析",
+          "num": "10",
+          "Proportion": "7.87%",
+          "imageUrl": "/images/key-areas/zhongdianqiye.png",
+          "dialogInfo": [
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "重点企业",
+              "num": "10",
+              "unit": "个"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "龙头企业",
+              "num": "7",
+              "unit": "个",
+              "rate": "70.00%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "上市企业",
+              "num": "1",
+              "unit": "个",
+              "rate": "1.00%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "“专精特新”企业",
+              "num": "0",
+              "unit": "个",
+              "rate": "0,00%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "国高企业",
+              "num": "7",
+              "unit": "个",
+              "rate": "70.00%"
+            }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "重点项目",
+          "dialogTitle": "重点项目分析",
+          "num": "3",
+          "Proportion": "2.31%",
+          "imageUrl": "/images/key-areas/zhongdianxiangmu.png"
+        }
+      ]
+    },
+    {
+      "industry": "国家高新区龙华园区",
+      "descInfo": {
+        "name": "国家高新区龙华园区",
+        "area": "龙华区",
+        "place": "规划面积17.78平方公里，在",
+        "desc": "观澜高新园片区、九龙山智能科技城-福民创新园片区等区域，布局区块链、细胞与基因（含生物育种）、空天技术、可见光通信与光计算等产业。",
+        "isLong": true,
+        "num": 5,
+        "detail": [
+          {
+            "title": "龙华园区",
+            "desc": "包括九龙山智能科技城-福民创新园片区和观澜高新园片区，共17.78平方公里。其中，观澜高新园片区由梅观高速、机荷高速、环观南路、坂澜大道围合而成，面积4.23平方公里，首期已开发面积2.05平方公里，现有空置产业空间约62万平方米，目前园区市政基础设施建设已基本完成，生活配套设施建设正逐步完善。九龙山智能科技城-福民创新园片区位于龙华区福城街道，规划面积13.55平方公里，片区未来对外高快速路网呈“四横两纵”格局，被纳入省级人工智能产业核心区，全市五大5G产业聚集区之一，园区及周边产业门类众多、智能智造基础雄厚，有裕展精密、泰衡诺等规上企业，片区招商引资成效显著，已引进美团等优质项目，周边科研创新优势强劲。布局"
+          },
+          {
+            "title": "区块链、细胞与基因（含生物育种）、空天技术、可见光通信与光计算等产业。"
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "unit": "亿元",
+          "name": "2021 项目投资额",
+          "dialogTitle": "项目投资额分析",
+          "num": "***",
+          "Proportion": "*",
+          "imageUrl": "/images/key-areas/touzie.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "***",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "项目TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "2020 专利数量",
+          "dialogTitle": "专利分析",
+          "num": "291",
+          "Proportion": "0.87%",
+          "imageUrl": "/images/key-areas/zhuanli.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 专利数量",
+              "num": "291",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 国内发明专利授权量",
+              "num": "235",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 PCT 国际专利申请量",
+              "num": "56",
+              "unit": "个"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "科研机构TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "科技创新体系",
+          "dialogTitle": "科技创新体系分析",
+          "num": "7",
+          "Proportion": "4.02%",
+          "imageUrl": "/images/key-areas/kejichaungxin.png"
+        },
+        {
+          "unit": "个",
+          "name": "重点企业",
+          "dialogTitle": "重点企业分析",
+          "num": "11",
+          "Proportion": "8.66%",
+          "imageUrl": "/images/key-areas/zhongdianqiye.png",
+          "dialogInfo": [
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "重点企业",
+              "num": "11",
+              "unit": "个"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "龙头企业",
+              "num": "1",
+              "unit": "个",
+              "rate": "9.09%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "上市企业",
+              "num": "0",
+              "unit": "个",
+              "rate": "0.00%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "“专精特新”企业",
+              "num": "0",
+              "unit": "个",
+              "rate": "0,00%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "国高企业",
+              "num": "4",
+              "unit": "个",
+              "rate": "36.36%"
+            }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "重点项目",
+          "dialogTitle": "重点项目分析",
+          "num": "26",
+          "Proportion": "20.00%",
+          "imageUrl": "/images/key-areas/zhongdianxiangmu.png"
+        }
+      ]
+    },
+    {
+      "industry": "国家高新区宝安园区",
+      "descInfo": {
+        "name": "国家高新区宝安园区",
+        "area": "宝安区",
+        "place": "规划面积23.52平方公里，在",
+        "desc": "上市公司总部及研发中心园区、超材料产业集聚区城市更新单元、新桥东片区等区域，布局空天技术、深地深海等产业。",
+        "isLong": true,
+        "num": 5,
+        "detail": [
+          {
+            "title": "宝安园区",
+            "desc": "包括尖岗山、石岩南、铁仔山、新桥东4个片区，总规划面积23.52平方公里，面积约占全市高新区的1/7，现状为以工业生产空间为主的高度建成区。截至2020年底，有科技企业1706家，其中国高企业1499家，占全市高新区近三分之一；建成各类科技园区33个、众创空间10个，其中国家级科技企业孵化器4个、国家级众创空间4个；搭建各类科技创新平台87个，其中国家级平台3个。布局"
+          },
+          {
+            "title": "空天技术、深地深海等产业。"
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "unit": "亿元",
+          "name": "2021 项目投资额",
+          "dialogTitle": "项目投资额分析",
+          "num": "***",
+          "Proportion": "*",
+          "imageUrl": "/images/key-areas/touzie.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "***",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "项目TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "2020 专利数量",
+          "dialogTitle": "专利分析",
+          "num": "27",
+          "Proportion": "0.08%",
+          "imageUrl": "/images/key-areas/zhuanli.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 专利数量",
+              "num": "27",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 国内发明专利授权量",
+              "num": "24",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 PCT 国际专利申请量",
+              "num": "3",
+              "unit": "个"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "科研机构TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "科技创新体系",
+          "dialogTitle": "科技创新体系分析",
+          "num": "4",
+          "Proportion": "2.30%",
+          "imageUrl": "/images/key-areas/kejichaungxin.png"
+        },
+        {
+          "unit": "个",
+          "name": "重点企业",
+          "dialogTitle": "重点企业分析",
+          "num": "3",
+          "Proportion": "2.36%",
+          "imageUrl": "/images/key-areas/zhongdianqiye.png",
+          "dialogInfo": [
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "重点企业",
+              "num": "3",
+              "unit": "个"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "龙头企业",
+              "num": "2",
+              "unit": "个",
+              "rate": "66.67%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "上市企业",
+              "num": "0",
+              "unit": "个",
+              "rate": "0.00%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "“专精特新”企业",
+              "num": "2",
+              "unit": "个",
+              "rate": "66,67%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "国高企业",
+              "num": "3",
+              "unit": "个",
+              "rate": "100.00%"
+            }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "重点项目",
+          "dialogTitle": "重点项目分析",
+          "num": "4",
+          "Proportion": "3.15%",
+          "imageUrl": "/images/key-areas/zhongdianxiangmu.png"
+        }
+      ]
+    },
+    {
+      "industry": "国家高新区坪山园区",
+      "descInfo": {
+        "name": "国家高新区坪山园区",
+        "area": "坪山区",
+        "place": "规划面积51.6平方公里，在",
+        "desc": "银星生命健康科技园、生物加速器二期、长方二期产业园等区域，布局细胞与基因（含生物育种）、脑科学与类脑智能等产业。",
+        "isLong": true,
+        "num": 5,
+        "detail": [
+          {
+            "title": "坪山园区",
+            "desc": "规划总面积51.6平方公里，东、北至深惠边界，南至田头山，西至高压走廊及出口加工区，包含13.5平方公里的国家新能源（汽车）产业基地、3.3平方公里的国家生物产业基地、13.2平方公里的国家新型工业化产业示范基地和1.91平方公里的综合保税区等重要片区，形成了以生物医药、新能源（汽车）、新一代信息技术和智能制造三大主导产业为核心的产业集群，已初步发展成为以高新技术产业为主体、承担着国家战略性新兴产业发展重任的连片产业区。布局"
+          },
+          {
+            "title": "空天技术、深地深海等产业。"
+          }
+        ]
+      },
+      "tableData": [
+        {
+          "unit": "亿元",
+          "name": "2021 项目投资额",
+          "dialogTitle": "项目投资额分析",
+          "num": "***",
+          "Proportion": "*",
+          "imageUrl": "/images/key-areas/touzie.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "项目总投资",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "2021 投资总额",
+              "num": "***",
+              "unit": "亿元"
+            },
+            {
+              "src": "/icons/key-areas/newEra/icon-invest.png",
+              "desc": "“十四五”项目投资预算",
+              "num": "***",
+              "unit": "亿元"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "项目TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "2020 专利数量",
+          "dialogTitle": "专利分析",
+          "num": "1268",
+          "Proportion": "3.80%",
+          "imageUrl": "/images/key-areas/zhuanli.png",
+          "dialogInfo": [
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 专利数量",
+              "num": "1268",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 国内发明专利授权量",
+              "num": "1267",
+              "unit": "个"
+            },
+            {
+              "src": "/icons/key-areas/newEra/zhuanlishuliang.png",
+              "desc": "2020 PCT 国际专利申请量",
+              "num": "1",
+              "unit": "个"
+            }
+          ],
+          "dialogRadio": [
+            { "id": 0, "name": "按产业排行", "value": 1 },
+            { "id": 1, "name": "企业Top10", "value": 2 },
+            { "id": 2, "name": "科研机构TOP10", "value": 3 }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "科技创新体系",
+          "dialogTitle": "科技创新体系分析",
+          "num": "8",
+          "Proportion": "4.60%",
+          "imageUrl": "/images/key-areas/kejichaungxin.png"
+        },
+        {
+          "unit": "个",
+          "name": "重点企业",
+          "dialogTitle": "重点企业分析",
+          "num": "6",
+          "Proportion": "4.72%",
+          "imageUrl": "/images/key-areas/zhongdianqiye.png",
+          "dialogInfo": [
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "重点企业",
+              "num": "6",
+              "unit": "个"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "龙头企业",
+              "num": "2",
+              "unit": "个",
+              "rate": "33.33%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "上市企业",
+              "num": "1",
+              "unit": "个",
+              "rate": "16.67%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "“专精特新”企业",
+              "num": "1",
+              "unit": "个",
+              "rate": "16,67%"
+            },
+            {
+              "src": "/images/key-areas/zhongdianqiye.png",
+              "desc": "国高企业",
+              "num": "2",
+              "unit": "个",
+              "rate": "33.33%"
+            }
+          ]
+        },
+        {
+          "unit": "个",
+          "name": "重点项目",
+          "dialogTitle": "重点项目分析",
+          "num": "7",
+          "Proportion": "5.38%",
+          "imageUrl": "/images/key-areas/zhongdianxiangmu.png"
+        }
+      ]
+    }
+  ]
+}

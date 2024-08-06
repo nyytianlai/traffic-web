@@ -1,0 +1,26 @@
+{
+  "type": "FeatureCollection",
+  "name": "电子哨兵",
+  "crs": {
+    "type": "name",
+    "properties": { "name": "urn:ogc:def:crs:EPSG::4490" }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "fid": 17, "小区名称": "沙头角保税区", "电子哨兵": "" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.235313039157845, 22.558194214491234]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "fid": 17, "小区名称": "盐田区政府电子哨兵", "电子哨兵": "" },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [114.233182, 22.560381]
+      }
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "retCode": 0,
+      "result": {
+        "totalJson": [
+          {
+            "num":455207
+          },
+          {
+            "num":161504.7
+          }
+        ],
+        "waterJson":[
+          {
+            "waterNum":"0%"
+          },
+          {
+            "waterNum":"39%"
+          }
+        ]
+      }
+  }

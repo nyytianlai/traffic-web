@@ -1,0 +1,140 @@
+{
+  "rjrsList": [
+    {
+      "name": "福田区",
+      "value": 100
+    },
+    {
+      "name": "罗湖区",
+      "value": 260
+    },
+    {
+      "name": "盐田区",
+      "value": 80
+    },
+    {
+      "name": "南山区",
+      "value": 60
+    },
+    {
+      "name": "宝安区",
+      "value": 50
+    },
+    {
+      "name": "龙岗区",
+      "value": 70
+    },
+    {
+      "name": "龙华区",
+      "value": 80
+    },
+    {
+      "name": "坪山区",
+      "value": 100
+    },
+    {
+      "name": "光明区",
+      "value": 50
+    },
+    {
+      "name": "大鹏新区",
+      "value": 60
+    },
+    {
+      "name": "深汕合作区",
+      "value": 80
+    }
+  ],
+  "rjrsListweek": [
+    {
+      "name": "福田区",
+      "value": 120
+    },
+    {
+      "name": "罗湖区",
+      "value": 260
+    },
+    {
+      "name": "盐田区",
+      "value": 100
+    },
+    {
+      "name": "南山区",
+      "value": 60
+    },
+    {
+      "name": "宝安区",
+      "value": 50
+    },
+    {
+      "name": "龙岗区",
+      "value": 70
+    },
+    {
+      "name": "龙华区",
+      "value": 80
+    },
+    {
+      "name": "坪山区",
+      "value": 100
+    },
+    {
+      "name": "光明区",
+      "value": 50
+    },
+    {
+      "name": "大鹏新区",
+      "value": 60
+    },
+    {
+      "name": "深汕合作区",
+      "value": 80
+    }
+  ],
+  "rjrsListMon": [
+    {
+      "name": "福田区",
+      "value": 80
+    },
+    {
+      "name": "罗湖区",
+      "value": 160
+    },
+    {
+      "name": "盐田区",
+      "value": 80
+    },
+    {
+      "name": "南山区",
+      "value": 60
+    },
+    {
+      "name": "宝安区",
+      "value": 80
+    },
+    {
+      "name": "龙岗区",
+      "value": 70
+    },
+    {
+      "name": "龙华区",
+      "value": 80
+    },
+    {
+      "name": "坪山区",
+      "value": 100
+    },
+    {
+      "name": "光明区",
+      "value": 50
+    },
+    {
+      "name": "大鹏新区",
+      "value": 60
+    },
+    {
+      "name": "深汕合作区",
+      "value": 80
+    }
+  ]
+}
